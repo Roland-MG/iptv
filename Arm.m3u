@@ -1,0 +1,111 @@
+#EXTM3U
+#EXTINF:-1,21TV
+http://ott-cdn.ucom.am/s10/index.m3u8
+#EXTINF:-1,4K Kyrd
+http://51.210.199.28/hls/stream.m3u8
+#EXTINF:-1,5 TV 
+http://live-5tvam.cdnvideo.ru/5tvam/5tvam/playlist.m3u8
+#EXTINF:-1,5+TV
+http://ott-cdn.ucom.am/s9/04.m3u8
+#EXTINF:-1,AABC TV
+https://streamer1.connectto.com/AABC_WEB_1201/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ARTN
+http://livestream.usatv.com/hls/m3u8/ARTN-NET.m3u8
+#EXTINF:-1,ATV (480p)
+http://ott-cdn.ucom.am/s8/index.m3u8
+#EXTINF:-1,Amga
+https://streamer1.connectto.com/AMGA_WEB_1202/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Arabika
+http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
+#EXTINF:-1,Arm Music
+http://livestream.usatv.com/hls/m3u8/ArmMusicHD.m3u8
+#EXTINF:-1,ArmNews (1080p)
+http://ott-cdn.ucom.am/s11/index.m3u8
+#EXTINF:-1,ArmNews 24 FHD
+http://5e4edcb9.kartoshkaka.ru/iptv/YSZEBB3QYC3TXF/7211/index.m3u8
+#EXTINF:-1,ArmTim
+https://autopilot.catcast.tv/content/40653/index.m3u8
+#EXTINF:-1,Armenia Premium (1080p)
+http://ott-cdn.ucom.am/s83/index.m3u8
+#EXTINF:-1,AzatutyunTV (1080p)
+http://ott-cdn.ucom.am/s3/index.m3u8
+#EXTINF:-1,CBC AZ
+http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/playlist.m3u8
+#EXTINF:-1,Comedi (480p)
+http://ott-cdn.ucom.am/s32/index.m3u8
+#EXTINF:-1,Free news
+http://5e4edcb9.kartoshkaka.ru/iptv/YSZEBB3QYC3TXF/610/index.m3u8
+#EXTINF:-1,Fresh tv
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=33718&token=f3d7a012660b195dfff42a967e901935&server=freshtv.catcast.tv
+#EXTINF:-1,H 1 INTERNATIONAL
+http://amtv1.livestreamingcdn.com/am2abr/tracks-v2a1/index.m3u8
+#EXTINF:-1,H1
+http://timeshift.arpinet.am/1/index.m3u8
+#EXTINF:-1,H2 (480p)
+http://ott-cdn.ucom.am/s2/index.m3u8
+#EXTINF:-1,H3 TV (480p)
+http://ott-cdn.ucom.am/s12/index.m3u8
+#EXTINF:-1,Hay (480p)
+http://ott-cdn.ucom.am/s73/index.m3u8
+#EXTINF:-1,Hay kino (480p)
+http://ott-cdn.ucom.am/s22/index.m3u8
+#EXTINF:-1,High vision
+https://streamer1.connectto.com/HIGHVISION_WEB_1205/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Horizon TV
+http://5.254.76.34:17070/C441/index.m3u8?token=kdsdkwy453wrRq29IIIo
+#EXTINF:-1,Jan tv (480p)
+http://ott-cdn.ucom.am/s42/index.m3u8
+#EXTINF:-1,Kentron HD
+http://cdn.onarmtv.com/str/4/output.m3u8
+#EXTINF:-1,LAYM_GOLD_TV
+http://shingaliptv1.online:80/LAYM_GOLD_TV/index.m3u8
+#EXTINF:-1,Livenews.am
+https://live-itadvice.cdnvideo.ru/itadvice/itadvice_smil/7b0493b53e9940494b046f8fdde2c0bd--itadvice--itadvice_720--chunklist.m3u8?hls_proxy_host=9719348103730aa5779c40a2948f495
+#EXTINF:-1,Luys TV (Istanbul)
+http://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/playlist.m3u8?md5=RwfE1P2IZXZV3OvQvYxN9Q&expires=1617733149
+#EXTINF:-1,Noor TV USA 
+https://streamer1.connectto.com/Noor_275/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Radio Van 103.0 FM (Yerevan) (720p)
+http://stream.radiovan.fm/stream/index.m3u8
+#EXTINF:-1,SHANT Music HD
+http://5e4edcb9.kartoshkaka.ru/iptv/YSZEBB3QYC3TXF/2167/index.m3u8
+#EXTINF:-1,Shant Kids HD
+http://5e4edcb9.kartoshkaka.ru/iptv/YSZEBB3QYC3TXF/2401/index.m3u8
+#EXTINF:-1,Shant Premium HD AM
+http://5e4edcb9.kartoshkaka.ru/iptv/YSZEBB3QYC3TXF/2392/index.m3u8
+#EXTINF:-1,Shant Serial HD
+http://5e4edcb9.kartoshkaka.ru/iptv/YSZEBB3QYC3TXF/2168/index.m3u8
+#EXTINF:-1,Shoghakat (480p)
+http://ott-cdn.ucom.am/s13/index.m3u8
+#EXTINF:-1,Tuntunik
+http://ott-cdn.ucom.am/s46/01.m3u8
+#EXTINF:-1,USArmenia TV
+http://livestream.usatv.com/hls/m3u8/USARMENIA_NET1080.m3u8
+#EXTINF:-1,Xaxaliq Tv
+http://ott-cdn.ucom.am/s74/index.m3u8
+#EXTINF:-1,Yerkir Media (480p)
+http://ott-cdn.ucom.am/s7/index.m3u8
+#EXTINF:-1,Романтика муз
+https://autopilot.catcast.tv/content/39696/index.m3u8
+#EXTINF:-1,Արմենիա 
+http://ott-cdn.ucom.am/s4/04.m3u8
+#EXTINF:-1,Արմենիուս թվ
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=40504&token=1fbe91833cc29a173527ee47332ef8d1&server=v2.catcast.tv
+#EXTINF:-1,Դավ ջան
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=40546&token=c9e216a6a1bfd50bc8b6eefff280e192&server=v2.catcast.tv
+#EXTINF:-1,Լայմ Cold tv
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=40546&token=a7ce703347bbe3375aa48d61b2333112&server=v2.catcast.tv
+#EXTINF:-1,Հայ RUS
+https://v2.catcast.tv/content/40515/index.m3u8
+#EXTINF:-1,Հայաստան թվ
+https://s1.hayastantv.me:8088/hayastantvcomedy/index.m3u8?token=50be4f3ec0993d19a6a487f7afe5afacebea6b05-5acc829062741042419b469856c1402a-1625740454-1625729654
+#EXTINF:-1,Հայք
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=40502&token=fc7f63225cd089b0490a71ff6225c172&server=v2.catcast.tv
+#EXTINF:-1,Հայք mix
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=40499&token=18797b508e361f2b36d79e1c22fab48e&server=v2.catcast.tv
+#EXTINF:-1,Նուռ թվ հայկական
+http://5e4edcb9.kartoshkaka.ru/iptv/YSZEBB3QYC3TXF/7206/index.m3u8
+#EXTINF:-1,Շանթ
+http://5e4edcb9.kartoshkaka.ru/iptv/YSZEBB3QYC3TXF/604/index.m3u8
+#EXTINF:-1,Պանառմենիա
+http://37.221.175.40:8181/PanarmLiveT/index.m3u8

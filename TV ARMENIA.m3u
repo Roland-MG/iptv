@@ -1,0 +1,437 @@
+﻿#EXTM3U
+#EXTINF:0,BAZMOC TV
+#EXTGRP:Армения | Հայկական
+http://91.231.200.2:9000/play/ch_198/index.m3u8
+#EXTINF:0,Kentron TV
+#EXTGRP:Армения | Հայկական
+http://91.231.200.2:9000/play/ch_010/index.m3u8
+#EXTINF:-1,KOTAYQ TV-ABOVYAN
+http://212.42.193.122:490/play/a01f/index.m3u8
+
+#EXTINF:-1 group-title="Հայկական" tvg-id="ext", tvg-logo="https://i.imgur.com/dlB4Xb8.jpg",PanArmenian TV
+http://37.221.175.40:8181/PanarmLiveT/index.m3u8
+#EXTINF:-1,AABC TV  armenian
+https://streamer1.connectto.com/AABC_WEB_1201/tracks-v1a1/mono.m3u8
+#EXTINF:-1,USArmenia TV
+http://livestream.usatv.com/hls/m3u8/USARMENIA_NET1080.m3u8
+#EXTINF:-1,LiveNews.am
+https://live-itadvice.cdnvideo.ru/itadvice/itadvice_smil/playlist.m3u8
+#EXTINF:-1 ,Luis TV
+http://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/playlist.m3u8?md5=RwfE1P2IZXZV3OvQvYxN9Q&expires=1617733149
+#EXTINF:-1,Hayastan TV
+https://cf.moskvatv.com/live/hayastantv/nsiud72346809anewuine/120.m3u8
+#EXTINF:-1,Armmusic
+http://livestream.usatv.com/hls/m3u8/ArmMusicHD.m3u8
+#EXTINF:-1,Shant TV HD
+http://5.63.160.25:8080/shant
+#EXTINF:-1,Shant Premium HD
+http://185.220.35.94:80/shant_premium/index.m3u8?token=test
+#EXTINF:-1,SONG TV Armenia
+http://212.42.193.122:8888/play/a00d/index.m3u8
+#EXTINF:-1,Shant Premium HD
+http://212.42.193.122:8888/play/a00g/index.m3u8
+
+#EXTINF:-1,Shant TV HD
+http://212.42.193.122:490/play/a00k/index.m3u8
+
+#EXTINF:0,H1
+http://amtv1.livestreamingcdn.com/am2abr/tracks-v1a1/index.m3u8
+#EXTINF:0,H2 
+
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s2/04.m3u8
+#EXTINF:-1,Yerkir Media
+
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s7/04.m3u8
+#EXTINF:0,Dar 21 HD
+
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s10/04.m3u8
+
+
+
+
+#EXTINF:0,Hay kino
+
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s22/04.m3u8
+
+#EXTINF:0,Ararat
+
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s6/04.m3u8
+
+
+#EXTINF:-1,Armenia TV
+
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s4/04.m3u8
+#EXTINF:0,Armenia TV Premium 1
+
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s83/04.m3u8
+#EXTINF:0,Armenia Comedy
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s32/04.m3u8
+
+
+#EXTINF:0,АРМЕНИЯ ТВ 5 
+
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s46/04.m3u8
+
+#EXTINF:0,Armenia Jan TV
+
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s42/04.m3u8
+
+
+#EXTINF:-1,Nor Hayastan TV
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s12/04.m3u8
+
+
+#EXTINF:0,Azatutyun TV
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s3/04.m3u8
+
+
+#EXTINF:0,Cineman TV
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s66/04.m3u8
+
+
+#EXTINF:0,Filmzone ATV 
+
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s48/04.m3u8
+
+
+#EXTINF:0,Киноман ATV 
+
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s94/04.m3u8
+
+#EXTINF:0,Xaxalik ATV 
+
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s74/04.m3u8
+
+#EXTINF:0,Hay ATV
+
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s73/04.m3u8
+#EXTINF:0,ArmNews
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s11/04.m3u8
+
+#EXTINF:0,Thava TV
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s53/04.m3u8
+
+#EXTINF:0,Hai TV
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s73/04.m3u8
+
+#EXTINF:0,МИР
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s39/04.m3u8
+
+#EXTINF:0,РБК
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s36/04.m3u8
+
+#EXTINF:0,Загородный
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s31/04.m3u8
+
+#EXTINF:0,Food Network 
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s18/04.m3u8
+
+#EXTINF:0,RТД-ТВ
+
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s93/04.m3u8
+
+#EXTINF:0,ТВ ШАНСОН
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s43/04.m3u8
+
+#EXTINF:0,BRIDGE-ТВ Русский ХИТ
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s78/04.m3u8
+#EXTINF:-1,ЕВРОНОВОСТИ 
+
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s89/04.m3u8
+
+
+#EXTINF:0,Первый канал
+
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s14/04.m3u8
+
+
+#EXTINF:0,Планета РТР
+
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s15/04.m3u8
+
+
+#EXTINF:0,Россия 24 
+
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s21/04.m3u8
+
+
+#EXTINF:0,Россия К
+
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s16/04.m3u8
+
+
+#EXTINF:0,НТВ мир
+
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s17/04.m3u8
+
+
+#EXTINF:0,Мир
+
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s39/04.m3u8
+
+
+#EXTINF:-1,Рен ТВ 
+
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s85/04.m3u8
+
+
+#EXTINF:-1,СТС 
+
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s52/04.m3u8
+
+
+#EXTINF:0,ТНТ
+
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s19/04.m3u8
+
+
+#EXTINF:-1,ТВЦ 
+
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s54/04.m3u8
+
+#EXTINF:0,(ЦТВ) РОССИЯ
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s20/index.m3u8
+
+
+#EXTINF:-1,ПЯТНИЦА А
+
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s50/04.m3u8
+
+
+#EXTINF:-1,ДОМАШНИЙ 
+
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s88/04.m3u8
+
+
+#EXTINF:-1,Победа
+
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s47/04.m3u8
+
+
+#EXTINF:0,A1
+
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s45/04.m3u8
+
+#EXTINF:-1,A2
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s33/04.m3u8
+
+#EXTINF:-1,А HBO 
+
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s64/04.m3u8
+
+
+#EXTINF:0,HCT 
+
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s87/04.m3u8
+
+
+#EXTINF:-1,Dorama 
+
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s95/04.m3u8
+
+
+#EXTINF:-1,Рыжий 
+
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s57/04.m3u8
+
+
+#EXTINF:-1,Мама 
+
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s77/04.m3u8
+
+
+#EXTINF:0,RTG
+
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s80/04.m3u8
+
+#EXTINF:-1,RTG HD 
+
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s63/04.m3u8
+
+
+#EXTINF:0,Сарафан
+
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s38/04.m3u8
+
+
+#EXTINF:0,Food Network 
+
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s18/04.m3u8
+
+#EXTINF:0,РБК
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s36/04.m3u8
+
+#EXTINF:0,Загородный
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s31/04.m3u8
+
+#EXTINF:0,RТД-ТВ
+
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s93/04.m3u8
+
+
+#EXTINF:0,Здоровье
+
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s90/04.m3u8
+
+
+
+#EXTINF:0,Телепутешествия 
+
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s71/04.m3u8
+
+
+#EXTINF:-1,Приключения HD
+
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s99/04.m3u8
+
+
+#EXTINF:-1,FASTBOX & FUN
+
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s79/04.m3u8
+
+
+
+#EXTINF:0,Настоящее время
+
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s61/04.m3u8
+
+
+#EXTINF:0,Eurika 
+
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s44/04.m3u8
+
+
+#EXTINF:0,История 
+
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s40/04.m3u8
+
+
+#EXTINF:0,Арсенал ТВ
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s68/04.m3u8
+
+
+#EXTINF:-1,Наука 
+
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s98/04.m3u8
+
+
+#EXTINF:0,ЗОО-ТВ
+
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s92/04.m3u8
+
+
+#EXTINF:0,Охотник и Рыболов 
+
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s55/04.m3u8
+
+
+#EXTINF:-1,ОХОТНИК И РЫБОЛОВ HD 
+
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s62/04.m3u8
+
+
+#EXTINF:0,Setanta Sport 
+
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s81/04.m3u8
+
+#EXTINF:0,Setanta Sport Plus 
+
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s82/04.m3u8
+
+
+#EXTINF:0,Телеканал Футбол
+
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s41/04.m3u8
+
+
+#EXTINF:0,MCM TOP 
+
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s49/04.m3u8
+
+
+#EXTINF:0,Bridge TV 
+
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s34/04.m3u8
+
+
+#EXTINF:0,BRIDGE-ТВ Русский ХИТ
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s78/04.m3u8
+
+#EXTINF:0,ТВ ШАНСОН
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s43/04.m3u8
+

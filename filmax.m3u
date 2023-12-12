@@ -1,0 +1,1022 @@
+
+#EXTM3U
+#EXTINF:-1 tvg-id="Первый" group-title="Основные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/PERVIY_KANAL.png",Первый канал
+http://51.38.134.135:8080/filmax/chatoprovayderah12/13
+#EXTINF:-1 tvg-id="Первый HD" group-title="Основные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/PERVIY_KANAL_HD.png",Первый канал HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/14
+#EXTINF:-1 tvg-id="НТВ" group-title="Основные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/NTV.png",НТВ
+http://51.38.134.135:8080/filmax/chatoprovayderah12/8
+#EXTINF:-1 tvg-id="НТВ" group-title="Основные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/NTV.png",НТВ HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/9
+#EXTINF:-1 tvg-id="Мир" group-title="Основные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/MIR.png",Мир
+http://51.38.134.135:8080/filmax/chatoprovayderah12/7
+#EXTINF:-1 tvg-id="Звезда" group-title="Основные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/ZVEZDA.png",Звезда
+http://51.38.134.135:8080/filmax/chatoprovayderah12/5
+#EXTINF:-1 tvg-id="Пятый канал" group-title="Основные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/PYATIY_KANAL.png",Пятый канал
+http://51.38.134.135:8080/filmax/chatoprovayderah12/3
+#EXTINF:-1 tvg-id="" group-title="Основные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/360_HD.png",360 HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/2
+#EXTINF:-1 tvg-id="Телеканал 360 Новости HD" group-title="Основные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/360_NOVOSTI.png",360 Новости HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/1
+#EXTINF:-1 tvg-id="ОТР" group-title="Основные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/OTR.png",ОТР
+http://51.38.134.135:8080/filmax/chatoprovayderah12/11
+#EXTINF:-1 tvg-id="ОТР" group-title="Основные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/OTR.png",ОТР HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/668
+#EXTINF:-1 tvg-id="Пятница! HD" group-title="Основные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/PYATNICA.png",Пятница!
+http://51.38.134.135:8080/filmax/chatoprovayderah12/135
+#EXTINF:-1 tvg-id="Пятница HD" group-title="Основные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/PYATNICA.png",Пятница! HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/136
+#EXTINF:-1 tvg-id="РЕН ТВ HD" group-title="Основные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/REN_TV.png",РЕН ТВ
+http://51.38.134.135:8080/filmax/chatoprovayderah12/137
+#EXTINF:-1 tvg-id="РЕН ТВ HD" group-title="Основные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/REN_HD_TV.png",РЕН ТВ HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/138
+#EXTINF:-1 tvg-id="Россия 1" group-title="Основные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/RUSSIA_1.png",Россия 1
+http://51.38.134.135:8080/filmax/chatoprovayderah12/139
+#EXTINF:-1 tvg-id="Россия 1 HD" group-title="Основные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/RUSSIA_1_HD.png",Россия 1 HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/140
+#EXTINF:-1 tvg-id="Россия К" group-title="Основные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/RUSSIA_K.png",Россия К
+http://51.38.134.135:8080/filmax/chatoprovayderah12/142
+#EXTINF:-1 tvg-id="Спас ТВ" group-title="Основные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/SPAS.png",Спас
+http://51.38.134.135:8080/filmax/chatoprovayderah12/143
+#EXTINF:-1 tvg-id="СТС HD" group-title="Основные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/STS.png",СТС
+http://51.38.134.135:8080/filmax/chatoprovayderah12/144
+#EXTINF:-1 tvg-id="СТС HD" group-title="Основные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/STS.png",СТС HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/652
+#EXTINF:-1 tvg-id="Суббота!" group-title="Основные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/SUPER.png",Суббота!
+http://51.38.134.135:8080/filmax/chatoprovayderah12/145
+#EXTINF:-1 tvg-id="Суббота!" group-title="Основные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/SUPER_HD.png",Суббота! HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/146
+#EXTINF:-1 tvg-id="ТВЦ" group-title="Основные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/TVC_TV.png",ТВЦ
+http://51.38.134.135:8080/filmax/chatoprovayderah12/147
+#EXTINF:-1 tvg-id="Россия 24" group-title="Основные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/RUSSIA_24.png",Россия 24
+http://51.38.134.135:8080/filmax/chatoprovayderah12/141
+#EXTINF:-1 tvg-id="Домашний HD" group-title="Основные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/DOMASHNIY.png",Домашний HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/819
+#EXTINF:-1 tvg-id="ТВ3 HD" group-title="Основные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/TV3.png",ТВ3
+http://51.38.134.135:8080/filmax/chatoprovayderah12/148
+#EXTINF:-1 tvg-id="ТВ 3 HD" group-title="Основные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/TV3.png",ТВ3 HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/149
+#EXTINF:-1 tvg-id="ТНТ" group-title="Основные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/TNT.png",ТНТ
+http://51.38.134.135:8080/filmax/chatoprovayderah12/150
+#EXTINF:-1 tvg-id="ТНТ HD" group-title="Основные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/TNT_HD.png",ТНТ HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/151
+#EXTINF:-1 tvg-id="ТНТ4 HD" group-title="Основные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/TNT4.png",ТНТ4
+http://51.38.134.135:8080/filmax/chatoprovayderah12/152
+#EXTINF:-1 tvg-id="Ю" group-title="Основные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/U.png",Ю
+http://51.38.134.135:8080/filmax/chatoprovayderah12/154
+#EXTINF:-1 tvg-id="РБК" group-title="Основные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/RBK.png",РБК
+http://51.38.134.135:8080/filmax/chatoprovayderah12/530
+#EXTINF:-1 tvg-id="Домашний HD" group-title="Основные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/DOMASHNIY.png",Домашний
+http://51.38.134.135:8080/filmax/chatoprovayderah12/4
+#EXTINF:-1 tvg-id="Че" group-title="Основные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/CHE.png",Че!
+http://51.38.134.135:8080/filmax/chatoprovayderah12/153
+#EXTINF:-1 tvg-id="РБК" group-title="Основные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/RBK.png",РБК HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/394
+#EXTINF:-1 tvg-id="Перец Int" group-title="Основные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/PEREC.png",Перец
+http://51.38.134.135:8080/filmax/chatoprovayderah12/573
+#EXTINF:-1 tvg-id="ТНТ4 HD" group-title="Основные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/TNT4.png",ТНТ4 HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/591
+#EXTINF:-1 tvg-id="Москва-24" group-title="Основные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/MOSKWA_24.png",Москва 24
+http://51.38.134.135:8080/filmax/chatoprovayderah12/613
+#EXTINF:-1 tvg-id="Звезда" group-title="Основные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/ZVEZDA.png",Звезда HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/399
+#EXTINF:-1 tvg-id="Дом кино" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/DOM_KINO.png",Дом Кино
+http://51.38.134.135:8080/filmax/chatoprovayderah12/390
+#EXTINF:-1 tvg-id="Дом Кино Премиум" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/DOM_KINO_PREMIUM.png",Дом кино Премиум HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/392
+#EXTINF:-1 tvg-id="Премиальное HD" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/PREMIALNOE_HD.png",Премиальное HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/407
+#EXTINF:-1 tvg-id="Остросюжетное HD" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/OSTROSUGETNOE_HD.png",Остросюжетное HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/433
+#EXTINF:-1 tvg-id="" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/KINOPAKAZ.png",Кинопоказ HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/406
+#EXTINF:-1 tvg-id="Комедийное HD" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/KOMEDIYNOE_HD.png",Комедийное HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/417
+#EXTINF:-1 tvg-id="Блокбастер HD" group-title="Фильмы и сериалы" tvg-logo="http://ru.filmax-tv.ru:4002/icons/BLOKBASTER.png",Блокбастер HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/696
+#EXTINF:-1 tvg-id="Камеди HD" group-title="Фильмы и сериалы" tvg-logo="http://ru.filmax-tv.ru:4002/icons/KAMEDY.png",Камеди HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/697
+#EXTINF:-1 tvg-id="Наш кинопоказ HD" group-title="Фильмы и сериалы" tvg-logo="http://ru.filmax-tv.ru:4002/icons/NASH_KINOPAKAZ.png",Наш кинопоказ HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/698
+#EXTINF:-1 tvg-id="Наше мужское HD" group-title="Фильмы и сериалы" tvg-logo="http://ru.filmax-tv.ru:4002/icons/NASHE_MUGSKOE.png",Наше Мужское HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/699
+#EXTINF:-1 tvg-id="Про любовь HD" group-title="Фильмы и сериалы" tvg-logo="http://ru.filmax-tv.ru:4002/icons/PRO-LUBOV.png",Про любовь HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/700
+#EXTINF:-1 tvg-id="Хит HD" group-title="Фильмы и сериалы" tvg-logo="http://ru.filmax-tv.ru:4002/icons/HIT.png",Хит HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/701
+#EXTINF:-1 tvg-id="Кино ТВ" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/KINO_TV_HD.png",Кино ТВ HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/398
+#EXTINF:-1 tvg-id="Hollywood" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/HOLLYWOOD.png",Hollywood
+http://51.38.134.135:8080/filmax/chatoprovayderah12/471
+#EXTINF:-1 tvg-id="Hollywood HD" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/HOLLYWOOD.png",Hollywood HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/472
+#EXTINF:-1 tvg-id="TV1000 HD" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/TV1000.png",TV1000
+http://51.38.134.135:8080/filmax/chatoprovayderah12/497
+#EXTINF:-1 tvg-id="TV1000 HD" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/TV1000.png",TV1000 HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/498
+#EXTINF:-1 tvg-id="TV1000 Русское кино HD" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/TV1000_RUSSKOE_KINO.png",TV1000 Русское кино
+http://51.38.134.135:8080/filmax/chatoprovayderah12/499
+#EXTINF:-1 tvg-id="TV1000 Русское кино HD" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/TV1000_RUSSKOE_KINO.png",TV1000 Русское кино HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/500
+#EXTINF:-1 tvg-id="TV1000 Action HD" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/TV1000_ACTION.png",TV1000 Action
+http://51.38.134.135:8080/filmax/chatoprovayderah12/501
+#EXTINF:-1 tvg-id="TV1000 Action HD" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/TV1000_ACTION.png",TV1000 Action HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/502
+#EXTINF:-1 tvg-id="TV 1000 World kino" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/TV1000_WORLD_KINO.png",TV1000 World Kino
+http://51.38.134.135:8080/filmax/chatoprovayderah12/503
+#EXTINF:-1 tvg-id="TV3 Film" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/TV3_FILM.png",TV3 Film HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/504
+#EXTINF:-1 tvg-id="ViP Comedy" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/VIP_COMEDY.png",ViP Comedy HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/506
+#EXTINF:-1 tvg-id="ViP Megahit" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/VIP_MEGAHIT.png",ViP Megahit HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/507
+#EXTINF:-1 tvg-id="ViP Premiere" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/VIP_PREMIERE.png",ViP Premiere HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/508
+#EXTINF:-1 tvg-id="ViP Serial" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/VIP_SERIAL.png",VIP Serial HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/509
+#EXTINF:-1 tvg-id="Кино UHD" group-title="Фильмы и сериалы" tvg-logo="http://ru.filmax-tv.ru:4002/icons/KINO_UHD.png",Кино UHD 4K
+http://51.38.134.135:8080/filmax/chatoprovayderah12/695
+#EXTINF:-1 tvg-id="Сериал UHD" group-title="Фильмы и сериалы" tvg-logo="http://ru.filmax-tv.ru:4002/icons/SERIAL_UHD.png",Сериал UHD 4K
+http://51.38.134.135:8080/filmax/chatoprovayderah12/694
+#EXTINF:-1 tvg-id="Ultra Cinema HD" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/ULTRA_CINEMA.png",UltraHD Cinema 4K
+http://51.38.134.135:8080/filmax/chatoprovayderah12/716
+#EXTINF:-1 tvg-id="Настоящее страшное телевидение (НСТВ)" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/NST.png",НСТ
+http://51.38.134.135:8080/filmax/chatoprovayderah12/428
+#EXTINF:-1 tvg-id="Страшное HD" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/STRASHNOE_HD.png",Страшное HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/442
+#EXTINF:-1 tvg-id="Шокирующее" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/SHOKIRUUCHIE_HD.png",Шокирующее HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/446
+#EXTINF:-1 tvg-id="Победа HD" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/POBEDA_HD.png",Победа! HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/434
+#EXTINF:-1 tvg-id="Арсенал HD" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/ARSENAL_TV.png",Арсенал HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/670
+#EXTINF:-1 tvg-id="День Победы HD" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/Den_pobedi.png",День Победы HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/728
+#EXTINF:-1 tvg-id="Epic Drama" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/EPIC_DRAMA.png",EPIC DRAMA HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/602
+#EXTINF:-1 tvg-id="Наше Крутое" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/NASHE_KRUTOE_HD.png",Наше Крутое HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/424
+#EXTINF:-1 tvg-id="3+" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/3+HD.png",3+ HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/387
+#EXTINF:-1 tvg-id="Время" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/VREMYA.png",Время
+http://51.38.134.135:8080/filmax/chatoprovayderah12/157
+#EXTINF:-1 tvg-id="Еврокино" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/EUROKINO.png",Еврокино
+http://51.38.134.135:8080/filmax/chatoprovayderah12/393
+#EXTINF:-1 tvg-id="Иллюзион +" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/ILUZION+.png",Иллюзион+
+http://51.38.134.135:8080/filmax/chatoprovayderah12/395
+#EXTINF:-1 tvg-id="KinoSAT" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/KINOSAT.png",Киносат
+http://51.38.134.135:8080/filmax/chatoprovayderah12/409
+#EXTINF:-1 tvg-id="Классика Кино HD" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/CLASSIKA_KINO.png",Классика кино HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/416
+#EXTINF:-1 tvg-id="Комедия" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/KOMEDIA.png",Комедия
+http://51.38.134.135:8080/filmax/chatoprovayderah12/418
+#EXTINF:-1 tvg-id="Наше Любимое" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/LUBIMOE_KINO.png",Наше любимое кино
+http://51.38.134.135:8080/filmax/chatoprovayderah12/419
+#EXTINF:-1 tvg-id="Мир сериала" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/MIR_SERIALA.png",Мир сериала
+http://51.38.134.135:8080/filmax/chatoprovayderah12/420
+#EXTINF:-1 tvg-id="" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/romantichnoe.png",Романтичное HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/779
+#EXTINF:-1 tvg-id="Душевное" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/NASH_KINOROMAN.png",Душевное HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/423
+#EXTINF:-1 tvg-id="Русский роман HD" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/RUSSKTY_ROMAN_HD.png",Русский роман HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/439
+#EXTINF:-1 tvg-id="Русский роман HD" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/RUSSKTY_ROMAN_HD.png",Русский роман
+http://51.38.134.135:8080/filmax/chatoprovayderah12/693
+#EXTINF:-1 tvg-id="Наше любимое HD" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/LUBIMOE_HD.png",Любимое HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/425
+#EXTINF:-1 tvg-id="НТВ Право" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/NTV_PRAVO.png",НТВ Право
+http://51.38.134.135:8080/filmax/chatoprovayderah12/429
+#EXTINF:-1 tvg-id="НТВ Сериал" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/NTV_STIL.png",НТВ Стиль
+http://51.38.134.135:8080/filmax/chatoprovayderah12/430
+#EXTINF:-1 tvg-id="НТВ Сериал" group-title="Фильмы и сериалы" tvg-logo="http://ru.filmax-tv.ru:4002/icons/NTV_SERIAL.png",НТВ Сериал
+http://51.38.134.135:8080/filmax/chatoprovayderah12/679
+#EXTINF:-1 tvg-id="НТВ Хит" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/NTV_HIT.png",НТВ Хит
+http://51.38.134.135:8080/filmax/chatoprovayderah12/431
+#EXTINF:-1 tvg-id="Русский бестселлер" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/RUSSKIY_BEZCELER.png",Русский бестселлер
+http://51.38.134.135:8080/filmax/chatoprovayderah12/436
+#EXTINF:-1 tvg-id="Русский детектив" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/RUSSKIY_DETEKTIV.png",Русский детектив
+http://51.38.134.135:8080/filmax/chatoprovayderah12/437
+#EXTINF:-1 tvg-id="Русский иллюзион" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/RUSSKIY_ILUZION.png",Русский Иллюзион
+http://51.38.134.135:8080/filmax/chatoprovayderah12/438
+#EXTINF:-1 tvg-id="СТС Love" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/STS_LOVE.png",СТС Love
+http://51.38.134.135:8080/filmax/chatoprovayderah12/49
+#EXTINF:-1 tvg-id="Cinema" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/CINEMA.png",CINEMA
+http://51.38.134.135:8080/filmax/chatoprovayderah12/440
+#EXTINF:-1 tvg-id="Советское кино HD" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/SOVERCKOE_KINO_HD.png",Советское кино HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/441
+#EXTINF:-1 tvg-id="Феникс+ Кино" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/FENIKS_KINO.png",Феникс плюс кино
+http://51.38.134.135:8080/filmax/chatoprovayderah12/445
+#EXTINF:-1 tvg-id="A 1 HD" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/A1.png",A1 HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/448
+#EXTINF:-1 tvg-id="A 1 HD" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/A1.png",A1
+http://51.38.134.135:8080/filmax/chatoprovayderah12/447
+#EXTINF:-1 tvg-id="A 2 HD" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/A2.png",A2 HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/450
+#EXTINF:-1 tvg-id="A 2 HD" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/A2.png",A2
+http://51.38.134.135:8080/filmax/chatoprovayderah12/449
+#EXTINF:-1 tvg-id="Amedia Premium" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/AMEDIA_PREMIUM_HD.png",Amedia Premium HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/454
+#EXTINF:-1 tvg-id="Amedia Hit" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/AMEDIA_HIT.png",Amedia HIT HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/453
+#EXTINF:-1 tvg-id="TOP Cinema HD" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/ARMENIA_TV.png",Armenia Comedy
+http://51.38.134.135:8080/filmax/chatoprovayderah12/455
+#EXTINF:-1 tvg-id="Bollywood HD" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/BOLLYWOOD_HD.png",Bollywood HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/457
+#EXTINF:-1 tvg-id="Bolt HD" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/BOLT_HD.png",BOLT HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/458
+#EXTINF:-1 tvg-id="ETV+ HD" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/ETV+_HD.png",ETV+ HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/462
+#EXTINF:-1 tvg-id="FAN HD" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/FAN_HD.png",FAN HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/463
+#EXTINF:-1 tvg-id="FilmBox HD" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/FILMBOX.png",FilmBox
+http://51.38.134.135:8080/filmax/chatoprovayderah12/464
+#EXTINF:-1 tvg-id="FilmBox Arthouse" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/FILMBOX_ARTHOUS.png",FilmBox Arthouse
+http://51.38.134.135:8080/filmax/chatoprovayderah12/465
+#EXTINF:-1 tvg-id="Filmzone+ HD" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/FILM_ZONA_HD.png",Filmzone+ HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/468
+#EXTINF:-1 tvg-id="Filmzone HD" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/FILMZONE.png",Filmzone HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/601
+#EXTINF:-1 tvg-id="FOX" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/FOX.png",FOX
+http://51.38.134.135:8080/filmax/chatoprovayderah12/608
+#EXTINF:-1 tvg-id="FOX" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/FOX_HD.png",FOX HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/469
+#EXTINF:-1 tvg-id="Fox Life" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/FOX_LIFE.png",Fox Life
+http://51.38.134.135:8080/filmax/chatoprovayderah12/609
+#EXTINF:-1 tvg-id="Fox Life HD" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/FOX_LIFE_HD.png",Fox Life HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/470
+#EXTINF:-1 tvg-id="Paramount Channel HD" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/PARAMOUNT_CHANNEL.png",Paramount Channel
+http://51.38.134.135:8080/filmax/chatoprovayderah12/475
+#EXTINF:-1 tvg-id="Paramount Channel HD" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/PARAMOUNT_CHANNEL.png",Paramount Channel HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/476
+#EXTINF:-1 tvg-id="Paramount Comedy" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/PARAMOUNT_COMEDY.png",Paramount Comedy
+http://51.38.134.135:8080/filmax/chatoprovayderah12/477
+#EXTINF:-1 tvg-id="Paramount Comedy" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/PARAMOUNT_COMEDY.png",Paramount Comedy HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/478
+#EXTINF:-1 tvg-id="Balticum Platinum" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/BALTICA_PLATINUM_HD.png",Balticum Platinum HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/592
+#EXTINF:-1 tvg-id="Shot TV" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/SHOT_TV.png",SHOT TV
+http://51.38.134.135:8080/filmax/chatoprovayderah12/481
+#EXTINF:-1 tvg-id="" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/INTERNET_TV.png",Flux HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/818
+#EXTINF:-1 tvg-id="Sony Channel Eesti HD" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/SONY_BALTIC_HD.png",Sony Channel Eesti HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/482
+#EXTINF:-1 tvg-id="Sony Channel" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/SONY_BALTIC_HD.png",Sony Channel
+http://51.38.134.135:8080/filmax/chatoprovayderah12/662
+#EXTINF:-1 tvg-id="Sony Channel" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/SONY_BALTIC_HD.png",Sony Channel HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/483
+#EXTINF:-1 tvg-id="Sony Sci-Fi" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/SONY_SCI_FI.png",Sony Sci-Fi
+http://51.38.134.135:8080/filmax/chatoprovayderah12/484
+#EXTINF:-1 tvg-id="Sony Turbo" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/SONY_TURBO.png",Sony Turbo
+http://51.38.134.135:8080/filmax/chatoprovayderah12/485
+#EXTINF:-1 tvg-id="Sony Turbo Eesti HD" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/SONY_TURBO.png",Sony Turbo Eesti HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/486
+#EXTINF:-1 tvg-id="Spike" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/SPIKE.png",Spike
+http://51.38.134.135:8080/filmax/chatoprovayderah12/487
+#EXTINF:-1 tvg-id="Spike" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/SPIKE.png",Spike HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/488
+#EXTINF:-1 tvg-id="Star Cinema" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/STAR_CINEMA.png",Star Cinema HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/489
+#EXTINF:-1 tvg-id="Star Family" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/STAR_FAMILY.png",Star Family HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/490
+#EXTINF:-1 tvg-id="XXI Век" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/21_VEK.png",XX1
+http://51.38.134.135:8080/filmax/chatoprovayderah12/510
+#EXTINF:-1 tvg-id="Дорама" group-title="Фильмы и сериалы" tvg-logo="http://ru.filmax-tv.ru:4002/icons/DORAMA.png",Дорама
+http://51.38.134.135:8080/filmax/chatoprovayderah12/531
+#EXTINF:-1 tvg-id="AMC" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/AMC.png",AMC
+http://51.38.134.135:8080/filmax/chatoprovayderah12/606
+#EXTINF:-1 tvg-id="BCUMEDIA HD" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/BCUMEDIA_HD.png",BCUMEDIA HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/614
+#EXTINF:-1 tvg-id="FlixSnip" group-title="Фильмы и сериалы" tvg-logo="http://ru.filmax-tv.ru:4002/icons/FLIX_SNIP.png",FlixSnip HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/711
+#EXTINF:-1 tvg-id="TOP Cinema HD" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/INTERNET_TV.png",Akudji Tv
+http://51.38.134.135:8080/filmax/chatoprovayderah12/451
+#EXTINF:-1 tvg-id="TOP USSR" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/ARMENIA_TV.png",Kinoman ATV
+http://51.38.134.135:8080/filmax/chatoprovayderah12/474
+#EXTINF:-1 tvg-id="TOP Cinema HD" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/ARMENIA_TV.png",Cineman ATV
+http://51.38.134.135:8080/filmax/chatoprovayderah12/459
+#EXTINF:-1 tvg-id="TOP USSR" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/ARMENIA_TV.png",Filmzone ATV
+http://51.38.134.135:8080/filmax/chatoprovayderah12/467
+#EXTINF:-1 tvg-id="" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/OPLOT_TV.png",Оплот 2
+http://51.38.134.135:8080/filmax/chatoprovayderah12/432
+#EXTINF:-1 tvg-id="Дорама" group-title="Фильмы и сериалы" tvg-logo="http://ru.filmax-tv.ru:4002/icons/DORAMA.png",Дорама HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/780
+#EXTINF:-1 tvg-id="Cinema (Космос ТВ)" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/COSMOS_TV.png",Cinema HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/783
+#EXTINF:-1 tvg-id="8 Канал-Беларусь HD" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/8_KANAL_HD.png",8 Канал HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/784
+#EXTINF:-1 tvg-id="Trash" group-title="Фильмы и сериалы" tvg-logo="http://ru.filmax-tv.ru:4002/icons/TRASH_HD.png",Trash HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/690
+#EXTINF:-1 tvg-id="Sony Channel Lietuva HD" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/SONY_BALTIC_HD.png",Sony Channel Lietuva HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/789
+#EXTINF:-1 tvg-id="" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/SONY_TURBO.png",Sony Turbo Lietuva HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/790
+#EXTINF:-1 tvg-id="Мосфильм HD" group-title="Фильмы и сериалы" tvg-logo="http://ru.filmax-tv.ru:4002/icons/MOSFILM.png",Мосфильм HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/791
+#EXTINF:-1 tvg-id="TV1000 Action CEE" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/TV1000_ACTION.png",TV1000 Action CEE HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/804
+#EXTINF:-1 tvg-id="ViP Comedy CEE" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/VIP_COMEDY.png",ViP Comedy CEE HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/805
+#EXTINF:-1 tvg-id="ViP Megahit CEE" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/VIP_MEGAHIT.png",ViP Megahit CEE HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/806
+#EXTINF:-1 tvg-id="VIP Premiere CEE HD" group-title="Фильмы и сериалы" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/VIP_PREMIERE.png",ViP Premiere CEE HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/807
+#EXTINF:-1 tvg-id="BackusTV" group-title="Фильмы и сериалы" tvg-logo="http://51.38.134.135:4000/icons/820.png",Backus TV
+http://51.38.134.135:8080/filmax/chatoprovayderah12/820
+#EXTINF:-1 tvg-id="BackusTV Страшное" group-title="Фильмы и сериалы" tvg-logo="http://51.38.134.135:4000/icons/821.png",Backus TV Страшное
+http://51.38.134.135:8080/filmax/chatoprovayderah12/821
+#EXTINF:-1 tvg-id="" group-title="Фильмы и сериалы" tvg-logo="http://51.38.134.135:4000/icons/827.png",KinoJam 1 HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/827
+#EXTINF:-1 tvg-id="" group-title="Фильмы и сериалы" tvg-logo="http://51.38.134.135:4000/icons/828.png",KinoJam 2 HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/828
+#EXTINF:-1 tvg-id="ТВОЕ ТВ HD" group-title="Фильмы и сериалы" tvg-logo="http://51.38.134.135:4000/icons/833.png",Твое ТВ HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/833
+#EXTINF:-1 tvg-id="Оружие" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/ORUGIE.png",Оружие
+http://51.38.134.135:8080/filmax/chatoprovayderah12/10
+#EXTINF:-1 tvg-id="Бобер" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/BOBER.png",Бобёр
+http://51.38.134.135:8080/filmax/chatoprovayderah12/31
+#EXTINF:-1 tvg-id="RTД" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/RTD.png",RTД HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/186
+#EXTINF:-1 tvg-id="Большая Азия" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/BOLSHAI_ASIA.png",Большая Азия HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/189
+#EXTINF:-1 tvg-id="В мире животных" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/V_MIRE_GIVOTNIH.png",В мире животных HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/190
+#EXTINF:-1 tvg-id="Глазами туриста" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/GLAZAMI_TURISTA.png",Глазами туриста
+http://51.38.134.135:8080/filmax/chatoprovayderah12/191
+#EXTINF:-1 tvg-id="Диалоги о рыбалке" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/DIALOGI_O_RIBALKE.png",Диалоги о рыбалке
+http://51.38.134.135:8080/filmax/chatoprovayderah12/664
+#EXTINF:-1 tvg-id="Диалоги о рыбалке HD" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/DIALOGI_O_RIBALKE.png",Диалоги о рыбалке HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/192
+#EXTINF:-1 tvg-id="Дикая Охота HD" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/DIKAYA_OHOTA.png",Дикая охота HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/193
+#EXTINF:-1 tvg-id="Дикая Рыбалка HD" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/DIKAYA_RIBALKA.png",Дикая рыбалка HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/194
+#EXTINF:-1 tvg-id="Дикий" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/DIKIY.png",Дикий
+http://51.38.134.135:8080/filmax/chatoprovayderah12/195
+#EXTINF:-1 tvg-id="Домашние животные" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/DOMASHNIE_GIVOTNIE.png",Домашние животные
+http://51.38.134.135:8080/filmax/chatoprovayderah12/196
+#EXTINF:-1 tvg-id="Еда Премиум" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/EDA_PREMIUM.png",Еда Премиум HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/197
+#EXTINF:-1 tvg-id="Живая планета" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/GIVAYA_PLANETA.png",Живая Планета
+http://51.38.134.135:8080/filmax/chatoprovayderah12/198
+#EXTINF:-1 tvg-id="Живая природа" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/GIVAYA_PRIRODA.png",Живая природа HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/199
+#EXTINF:-1 tvg-id="Загородная жизнь" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/ZAGORODNAYA_GIZN.png",Загородная Жизнь
+http://51.38.134.135:8080/filmax/chatoprovayderah12/200
+#EXTINF:-1 tvg-id="Загородный int" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/ZAGORODNIY_INT.png",Загородный Int. HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/201
+#EXTINF:-1 tvg-id="История" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/ISTORIYA.png",История
+http://51.38.134.135:8080/filmax/chatoprovayderah12/202
+#EXTINF:-1 tvg-id="Конный мир" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/KONIY_MIR.png",Конный мир HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/203
+#EXTINF:-1 tvg-id="Мир увлечений" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/MIR_UVLICHENIY.png",Мир увлечений
+http://51.38.134.135:8080/filmax/chatoprovayderah12/205
+#EXTINF:-1 tvg-id="Морской" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/MORSKOY_HD.png",Морской
+http://51.38.134.135:8080/filmax/chatoprovayderah12/692
+#EXTINF:-1 tvg-id="Морской" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/MORSKOY_HD.png",Морской HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/207
+#EXTINF:-1 tvg-id="Моя планета" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/MOYA_PLANETA.png",Моя планета
+http://51.38.134.135:8080/filmax/chatoprovayderah12/208
+#EXTINF:-1 tvg-id="Наука" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/NAUKA.png",Наука
+http://51.38.134.135:8080/filmax/chatoprovayderah12/209
+#EXTINF:-1 tvg-id="Наука" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/NAUKA.png",Наука HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/48
+#EXTINF:-1 tvg-id="Наша Сибирь" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/NASHA_SIBIR.png",Наша Сибирь HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/210
+#EXTINF:-1 tvg-id="Охота и рыбалка" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/OHOTA_I_RIBALKA.png",Охота и рыбалка
+http://51.38.134.135:8080/filmax/chatoprovayderah12/212
+#EXTINF:-1 tvg-id="Охотник и Рыболов HD" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/OHOTNIL_RIBALOV_HD.png",Охотник и рыболов HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/213
+#EXTINF:-1 tvg-id="Охотник и рыболов int" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/OHOTNIL_RIBALOV_HD.png",Охотник и рыболов Int. HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/214
+#EXTINF:-1 tvg-id="TLC" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/TLC_HD.png",TLC
+http://51.38.134.135:8080/filmax/chatoprovayderah12/663
+#EXTINF:-1 tvg-id="Приключения HD" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/PRIKLUCHENIE_HD.png",Приключения HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/218
+#EXTINF:-1 tvg-id="Совершенно секретно" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/SOVERSHENNO_SEKRETNO.png",Совершенно секретно
+http://51.38.134.135:8080/filmax/chatoprovayderah12/219
+#EXTINF:-1 tvg-id="Тайны Галактики HD" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/GALAXY.png",Тайны Галактики
+http://51.38.134.135:8080/filmax/chatoprovayderah12/220
+#EXTINF:-1 tvg-id="Тайны Галактики HD" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/GALAXY.png",Тайны Галактики HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/221
+#EXTINF:-1 tvg-id="Доктор" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/DOCTOR.png",Доктор
+http://51.38.134.135:8080/filmax/chatoprovayderah12/222
+#EXTINF:-1 tvg-id="Техно 24" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/TEHNO_24.png",ТЕХНО 24
+http://51.38.134.135:8080/filmax/chatoprovayderah12/223
+#EXTINF:-1 tvg-id="Точка отрыва" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/TOCHKA_TV.png",Точка отрыва
+http://51.38.134.135:8080/filmax/chatoprovayderah12/225
+#EXTINF:-1 tvg-id="Усадьба‑ТВ" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/USADBA.png",Усадьба ТВ
+http://51.38.134.135:8080/filmax/chatoprovayderah12/226
+#EXTINF:-1 tvg-id="Первый космический HD" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/EURIKA_HD.png",Первый Космический HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/227
+#EXTINF:-1 tvg-id="Animal planet" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/ANIMAL_PLANET.png",Animal Planet
+http://51.38.134.135:8080/filmax/chatoprovayderah12/228
+#EXTINF:-1 tvg-id="Animal planet HD" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/ANIMAL_PLANET_HD.png",Animal Planet HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/229
+#EXTINF:-1 tvg-id="Da Vinci" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/DA_VINCHI.png",Da Vinci
+http://51.38.134.135:8080/filmax/chatoprovayderah12/230
+#EXTINF:-1 tvg-id="Discovery Channel" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/DISCOVERY.png",Discovery Channel
+http://51.38.134.135:8080/filmax/chatoprovayderah12/655
+#EXTINF:-1 tvg-id="Discovery Channel HD" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/DISCOVERY.png",Discovery Channel HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/231
+#EXTINF:-1 tvg-id="Discovery Science" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/DISCOVERY_SCENCE.png",Discovery Science
+http://51.38.134.135:8080/filmax/chatoprovayderah12/656
+#EXTINF:-1 tvg-id="Discovery Science" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/DISCOVERY_SCENCE.png",Discovery Science HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/232
+#EXTINF:-1 tvg-id="DocuBox HD" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/DOCUBOX.png",Docubox HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/683
+#EXTINF:-1 tvg-id="DTX" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/DTX.png",DTX
+http://51.38.134.135:8080/filmax/chatoprovayderah12/235
+#EXTINF:-1 tvg-id="DTX" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/DTX.png",DTX HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/236
+#EXTINF:-1 tvg-id="Телеканал Е HD" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/E.png",Телеканал Е HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/237
+#EXTINF:-1 tvg-id="Моя планета" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/MOYA_PLANETA.png",Моя планета HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/238
+#EXTINF:-1 tvg-id="Food Network" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/FOOD_NETWORK.png",Food Network
+http://51.38.134.135:8080/filmax/chatoprovayderah12/239
+#EXTINF:-1 tvg-id="Food Network Европа" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/FOOD_NETWORK.png",Food Network HD CEE
+http://51.38.134.135:8080/filmax/chatoprovayderah12/631
+#EXTINF:-1 tvg-id="History2 HD" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/H2_HD.png",History 2 HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/240
+#EXTINF:-1 tvg-id="History" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/HISTORY.png",History HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/242
+#EXTINF:-1 tvg-id="ID Investigation Discovery" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/ID_XTRA.png",ID Xtra
+http://51.38.134.135:8080/filmax/chatoprovayderah12/243
+#EXTINF:-1 tvg-id="ID Investigation Discovery" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/ID_DISCOVERY.png",Investigation Discovery HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/245
+#EXTINF:-1 tvg-id="NANO HD" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/NANO_HD.png",Nano HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/246
+#EXTINF:-1 tvg-id="" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/Heritage_4K.png",Heritage 4K
+http://51.38.134.135:8080/filmax/chatoprovayderah12/206
+#EXTINF:-1 tvg-id="" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/WOW_4K.png",WOW 4K
+http://51.38.134.135:8080/filmax/chatoprovayderah12/811
+#EXTINF:-1 tvg-id="National Geographic Wild" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/NAT_GEO_WILD_HD.png",National Geographic Wild
+http://51.38.134.135:8080/filmax/chatoprovayderah12/657
+#EXTINF:-1 tvg-id="National Geographic Wild HD" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/NAT_GEO_WILD_HD.png",National Geographic Wild HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/248
+#EXTINF:-1 tvg-id="National Geographic" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/NATIONAL_GEOGRAPHIC_CHANNEL_HD.png",National Geographic
+http://51.38.134.135:8080/filmax/chatoprovayderah12/658
+#EXTINF:-1 tvg-id="National Geographic HD" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/NATIONAL_GEOGRAPHIC_CHANNEL_HD.png",National Geographic HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/249
+#EXTINF:-1 tvg-id="RTG International" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/RTG_TV.png",RTG
+http://51.38.134.135:8080/filmax/chatoprovayderah12/251
+#EXTINF:-1 tvg-id="RTG International" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/RTG_TV.png",RTG HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/252
+#EXTINF:-1 tvg-id="TLC" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/TLC_HD.png",TLC HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/253
+#EXTINF:-1 tvg-id="Travel+Adventure HD" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/TRAVEL+ADVENTURE_HD.png",Travel and Adventure HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/254
+#EXTINF:-1 tvg-id="Travel channel HD" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/TRAVEL_CHANNEL.png",Travel Channel
+http://51.38.134.135:8080/filmax/chatoprovayderah12/255
+#EXTINF:-1 tvg-id="Travel channel HD" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/TRAVEL_CHANNEL.png",Travel Channel HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/256
+#EXTINF:-1 tvg-id="Viasat Explore" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/VIASAT_EXPLORE.png",Viasat Explore
+http://51.38.134.135:8080/filmax/chatoprovayderah12/257
+#EXTINF:-1 tvg-id="Viasat Explore" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/VIASAT_EXPLORE.png",Viasat Explore HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/575
+#EXTINF:-1 tvg-id="Viasat History" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/VIASAT_HISTORY.png",Viasat History
+http://51.38.134.135:8080/filmax/chatoprovayderah12/258
+#EXTINF:-1 tvg-id="Viasat History" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/VIASAT_HISTORY.png",Viasat History HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/574
+#EXTINF:-1 tvg-id="Viasat Nature" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/VIASAT_NATUR.png",Viasat Nature
+http://51.38.134.135:8080/filmax/chatoprovayderah12/259
+#EXTINF:-1 tvg-id="Viasat Nature" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/VIASAT_NATUR.png",Viasat Nature HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/626
+#EXTINF:-1 tvg-id="Viasat Nature/History HD" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/VIASAT_NATURE_HISTORY.png",Viasat Nature  History HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/260
+#EXTINF:-1 tvg-id="ZooПарк" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/ZOOPARK.png",Zоопарк
+http://51.38.134.135:8080/filmax/chatoprovayderah12/261
+#EXTINF:-1 tvg-id="" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/TERRA_INCOGNITA_HD.png",Terra Incognita HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/522
+#EXTINF:-1 tvg-id="Калейдоскоп ТВ" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/KALEYDOSKOP_TV.png",Калейдоскоп ТВ
+http://51.38.134.135:8080/filmax/chatoprovayderah12/534
+#EXTINF:-1 tvg-id="Психология 21" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/PSIHOLOGIYA21_TV.png",Психология 21
+http://51.38.134.135:8080/filmax/chatoprovayderah12/536
+#EXTINF:-1 tvg-id="Travel Guide-TV" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/TRAVEL_GUIDE_TV.png",Travel Guide TV
+http://51.38.134.135:8080/filmax/chatoprovayderah12/569
+#EXTINF:-1 tvg-id="Ocean TV" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/OCEAN_TV.png",Ocean-TV
+http://51.38.134.135:8080/filmax/chatoprovayderah12/659
+#EXTINF:-1 tvg-id="Тайна" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/TAYNA.png",ТАЙНА
+http://51.38.134.135:8080/filmax/chatoprovayderah12/603
+#EXTINF:-1 tvg-id="Love Nature 4K" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/LOVE_NATURE_4K.png",Love Nature 4K
+http://51.38.134.135:8080/filmax/chatoprovayderah12/632
+#EXTINF:-1 tvg-id="Insight UHD" group-title="Познавательные" tvg-logo="http://ru.filmax-tv.ru:4002/icons/INSIGHT_UHD.png",Insight UHD 4K
+http://51.38.134.135:8080/filmax/chatoprovayderah12/523
+#EXTINF:-1 tvg-id="Поехали!" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/POEHALI.png",ПОЕХАЛИ! HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/637
+#EXTINF:-1 tvg-id="Outdoor channel" group-title="Познавательные" tvg-logo="http://ru.filmax-tv.ru:4002/icons/OUTDOOR_HD.png",Outdoor Channel
+http://51.38.134.135:8080/filmax/chatoprovayderah12/681
+#EXTINF:-1 tvg-id="Доктор" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/DOCTOR.png",Доктор HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/724
+#EXTINF:-1 tvg-id="NASA TV UHD" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/NASA.png",NASA 4K
+http://51.38.134.135:8080/filmax/chatoprovayderah12/722
+#EXTINF:-1 tvg-id="HGTV HD" group-title="Познавательные" tvg-logo="http://ru.filmax-tv.ru:4002/icons/HGTV.png",HGTV HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/781
+#EXTINF:-1 tvg-id="History" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/HISTORY.png",History
+http://51.38.134.135:8080/filmax/chatoprovayderah12/801
+#EXTINF:-1 tvg-id="Discovery Ultra 4K" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/DISCOVERY.png",Discovery Ultra 4K
+http://51.38.134.135:8080/filmax/chatoprovayderah12/802
+#EXTINF:-1 tvg-id="" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/HISTORY.png",History CEE HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/814
+#EXTINF:-1 tvg-id="" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/ID_DISCOVERY.png",Investigation Discovery CEE HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/815
+#EXTINF:-1 tvg-id="Discovery Восточная Европа" group-title="Познавательные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/INTERNET_TV.png",Discovery Channel CEE HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/817
+#EXTINF:-1 tvg-id="Звезда Плюс" group-title="Познавательные" tvg-logo="http://51.38.134.135:4000/icons/832.png",Звезда Плюс
+http://51.38.134.135:8080/filmax/chatoprovayderah12/832
+#EXTINF:-1 tvg-id="Капитан Фантастика HD" group-title="Детские" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/KAPITAN_FANTASTICA.png",Капитан Фантастика HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/26
+#EXTINF:-1 tvg-id="Карусель" group-title="Детские" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/KARUSEL.png",Карусель
+http://51.38.134.135:8080/filmax/chatoprovayderah12/27
+#EXTINF:-1 tvg-id="Nick Jr" group-title="Детские" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/NICK_JR.png",Nick Jr.
+http://51.38.134.135:8080/filmax/chatoprovayderah12/28
+#EXTINF:-1 tvg-id="Nickelodeon" group-title="Детские" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/NICKELODEON.png",Nickelodeon
+http://51.38.134.135:8080/filmax/chatoprovayderah12/45
+#EXTINF:-1 tvg-id="Nickelodeon HD" group-title="Детские" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/NICKELODEON.png",Nickelodeon HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/30
+#EXTINF:-1 tvg-id="Телеканал О!" group-title="Детские" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/O!.png",Телеканал О!
+http://51.38.134.135:8080/filmax/chatoprovayderah12/33
+#EXTINF:-1 tvg-id="Мульт" group-title="Детские" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/MULT.png",Мульт
+http://51.38.134.135:8080/filmax/chatoprovayderah12/34
+#EXTINF:-1 tvg-id="Мульт" group-title="Детские" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/MULT.png",Мульт HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/41
+#EXTINF:-1 tvg-id="Канал Disney" group-title="Детские" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/DISNEY_CHANNEL.png",Канал Disney
+http://51.38.134.135:8080/filmax/chatoprovayderah12/35
+#EXTINF:-1 tvg-id="Gulli Girl" group-title="Детские" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/GULLI_GIRL.png",Gulli Girl
+http://51.38.134.135:8080/filmax/chatoprovayderah12/36
+#EXTINF:-1 tvg-id="Cartoon Network HD" group-title="Детские" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/CARTOON_NETWORK.png",Cartoon Network
+http://51.38.134.135:8080/filmax/chatoprovayderah12/38
+#EXTINF:-1 tvg-id="Cartoon Network HD" group-title="Детские" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/CARTOON_NETWORK.png",Cartoon Network HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/37
+#EXTINF:-1 tvg-id="СТС Kids HD" group-title="Детские" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/STS_KIDS.png",СТС Kids HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/39
+#EXTINF:-1 tvg-id="Детский мир" group-title="Детские" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/DETSKIY_MIR.png",Детский Мир
+http://51.38.134.135:8080/filmax/chatoprovayderah12/40
+#EXTINF:-1 tvg-id="Мультимузыка" group-title="Детские" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/MULT_I_MUZIKA.png",Мультимузыка
+http://51.38.134.135:8080/filmax/chatoprovayderah12/42
+#EXTINF:-1 tvg-id="Уникум" group-title="Детские" tvg-logo="http://ru.filmax-tv.ru:4002/icons/UNIKUM.png",Уникум
+http://51.38.134.135:8080/filmax/chatoprovayderah12/43
+#EXTINF:-1 tvg-id="TiJi" group-title="Детские" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/TIJI.png",TiJi
+http://51.38.134.135:8080/filmax/chatoprovayderah12/44
+#EXTINF:-1 tvg-id="Boomerang" group-title="Детские" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/BOOMERANG.png",Boomerang
+http://51.38.134.135:8080/filmax/chatoprovayderah12/46
+#EXTINF:-1 tvg-id="Ani" group-title="Детские" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/ANI.png",ANI
+http://51.38.134.135:8080/filmax/chatoprovayderah12/47
+#EXTINF:-1 tvg-id="В гостях у сказки" group-title="Детские" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/V_GOSTYAH_U_SKAZKI.png",В гостях у сказки
+http://51.38.134.135:8080/filmax/chatoprovayderah12/51
+#EXTINF:-1 tvg-id="JimJam" group-title="Детские" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/JIM_JAM.png",JimJam
+http://51.38.134.135:8080/filmax/chatoprovayderah12/52
+#EXTINF:-1 tvg-id="2x2" group-title="Детские" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/2X2.png",2x2
+http://51.38.134.135:8080/filmax/chatoprovayderah12/54
+#EXTINF:-1 tvg-id="2x2" group-title="Детские" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/2X2.png",2X2 HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/689
+#EXTINF:-1 tvg-id="Мультиландия" group-title="Детские" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/MULTIMANIA.png",Мультиландия
+http://51.38.134.135:8080/filmax/chatoprovayderah12/524
+#EXTINF:-1 tvg-id="Радость моя" group-title="Детские" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/RADOST_MOYA.png",Радость моя
+http://51.38.134.135:8080/filmax/chatoprovayderah12/525
+#EXTINF:-1 tvg-id="Смайлик ТВ" group-title="Детские" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/SMAYLIK_TV.png",СмайликТВ
+http://51.38.134.135:8080/filmax/chatoprovayderah12/526
+#EXTINF:-1 tvg-id="Рыжий" group-title="Детские" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/RIGIY.png",Рыжий
+http://51.38.134.135:8080/filmax/chatoprovayderah12/597
+#EXTINF:-1 tvg-id="NickToons" group-title="Детские" tvg-logo="http://ru.filmax-tv.ru:4002/icons/NICKTOONS.png",Nicktoons
+http://51.38.134.135:8080/filmax/chatoprovayderah12/678
+#EXTINF:-1 tvg-id="Kidzone+" group-title="Детские" tvg-logo="http://ru.filmax-tv.ru:4002/icons/KIDZONE_HD.png",Kidzone+ HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/676
+#EXTINF:-1 tvg-id="Disney Junior" group-title="Детские" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/INTERNET_TV.png",Disney Junior
+http://51.38.134.135:8080/filmax/chatoprovayderah12/810
+#EXTINF:-1 tvg-id="Беларусь 5" group-title="Спортивные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/BELARUS_5.png",Беларусь 5 HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/296
+#EXTINF:-1 tvg-id="Драйв" group-title="Спортивные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/DRAYV.png",Драйв
+http://51.38.134.135:8080/filmax/chatoprovayderah12/298
+#EXTINF:-1 tvg-id="Авто 24 HD" group-title="Спортивные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/AUTO_24.png",Авто 24
+http://51.38.134.135:8080/filmax/chatoprovayderah12/516
+#EXTINF:-1 tvg-id="Авто 24 HD" group-title="Спортивные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/AUTO_24.png",Авто 24 HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/635
+#EXTINF:-1 tvg-id="Матч! HD" group-title="Спортивные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/MATCH.png",Матч!
+http://51.38.134.135:8080/filmax/chatoprovayderah12/301
+#EXTINF:-1 tvg-id="Матч! HD" group-title="Спортивные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/MATCH.png",Матч! HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/302
+#EXTINF:-1 tvg-id="Моторспорт ТВ" group-title="Спортивные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/MOTOSPORT_TV.png",Моторспорт ТВ
+http://51.38.134.135:8080/filmax/chatoprovayderah12/316
+#EXTINF:-1 tvg-id="Старт HD" group-title="Спортивные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/START_TV.png",Старт HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/318
+#EXTINF:-1 tvg-id="Футбол HD" group-title="Спортивные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/TELEKANAL_FUTBALL.png",Футбол HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/323
+#EXTINF:-1 tvg-id="NBA" group-title="Спортивные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/NBA_TV.png",NBA TV HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/650
+#EXTINF:-1 tvg-id="Eurosport" group-title="Спортивные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/EUROSPORT_1.png",Eurosport 1
+http://51.38.134.135:8080/filmax/chatoprovayderah12/333
+#EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="Спортивные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/EUROSPORT_1HD.png",Eurosport 1 HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/334
+#EXTINF:-1 tvg-id="Eurosport 2" group-title="Спортивные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/EUROSPORT_2.png",Eurosport 2
+http://51.38.134.135:8080/filmax/chatoprovayderah12/335
+#EXTINF:-1 tvg-id="Eurosport 2" group-title="Спортивные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/EUROSPORT_2HD.png",Eurosport 2 HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/336
+#EXTINF:-1 tvg-id="Eurosport 4K" group-title="Спортивные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/EUROSPORT_4K.png",Eurosport 4K
+http://51.38.134.135:8080/filmax/chatoprovayderah12/337
+#EXTINF:-1 tvg-id="Extreme sports" group-title="Спортивные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/EXTREME_SPORTS_CHANNEL.png",Extreme Sports
+http://51.38.134.135:8080/filmax/chatoprovayderah12/339
+#EXTINF:-1 tvg-id="FightBox" group-title="Спортивные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/FIGHT_BOX.png",Fight Box
+http://51.38.134.135:8080/filmax/chatoprovayderah12/341
+#EXTINF:-1 tvg-id="FightBox" group-title="Спортивные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/FIGHT_BOX.png",FightBox HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/684
+#EXTINF:-1 tvg-id="Fast&FunBox HD" group-title="Спортивные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/FAST_BOX_FUN.png",Fast FunBox
+http://51.38.134.135:8080/filmax/chatoprovayderah12/340
+#EXTINF:-1 tvg-id="Fast&FunBox HD" group-title="Спортивные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/FAST_BOX_FUN.png",Fast FunBox HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/675
+#EXTINF:-1 tvg-id="" group-title="Спортивные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/REAL_MADRIT_TV.png",Real Madrid TV
+http://51.38.134.135:8080/filmax/chatoprovayderah12/342
+#EXTINF:-1 tvg-id="" group-title="Спортивные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/RED_BULL_TV.png",Red Bull TV
+http://51.38.134.135:8080/filmax/chatoprovayderah12/343
+#EXTINF:-1 tvg-id="Russian Extreme HD" group-title="Спортивные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/RUSSIAN_EXTREME.png",Russian Extreme HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/344
+#EXTINF:-1 tvg-id="Russian Extreme Ultra HD" group-title="Спортивные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/RUSSIAN_EXTREME_ULTRA.png",Russian Extreme Ultra 4K
+http://51.38.134.135:8080/filmax/chatoprovayderah12/345
+#EXTINF:-1 tvg-id="Setanta Sports 1 HD" group-title="Спортивные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/SETANTA_SPORT_1HD.png",Setanta Sports 1 HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/347
+#EXTINF:-1 tvg-id="Setanta Sports 2 HD" group-title="Спортивные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/SETANTA_SPORT_2HD.png",Setanta Sports 2 HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/348
+#EXTINF:-1 tvg-id="Setanta Sports UA HD" group-title="Спортивные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/SETENTA_SPORT.png",Setanta Sports UA HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/349
+#EXTINF:-1 tvg-id="Setanta Sports+ UA HD" group-title="Спортивные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/SETENTA_SPORT.png",Setanta Sports+ UA HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/727
+#EXTINF:-1 tvg-id="Sport 1 HD Lietuva" group-title="Спортивные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/SPORT_1_HD_LT.png",Sport 1 HD Lietuva
+http://51.38.134.135:8080/filmax/chatoprovayderah12/350
+#EXTINF:-1 tvg-id="Bein Sports 1 HD" group-title="Спортивные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/INTERNET_TV.png",Bein Sports 1 HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/233
+#EXTINF:-1 tvg-id="" group-title="Спортивные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/INTERNET_TV.png",Хоккейный HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/346
+#EXTINF:-1 tvg-id="Bein Sports 2 HD" group-title="Спортивные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/INTERNET_TV.png",Bein Sports 2 HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/682
+#EXTINF:-1 tvg-id="Bein Sports 3 HD" group-title="Спортивные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/INTERNET_TV.png",Bein Sports 3 HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/813
+#EXTINF:-1 tvg-id="SuperTennis HD" group-title="Спортивные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/SUPER_TENIS.png",SuperTennis HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/351
+#EXTINF:-1 tvg-id="TV3 Sport" group-title="Спортивные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/TV3_SPORT.png",TV3 Sport HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/352
+#EXTINF:-1 tvg-id="TV3 Sport 2" group-title="Спортивные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/TV3_SPORT2.png",TV3 Sport 2 HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/353
+#EXTINF:-1 tvg-id="C More Hockey HD" group-title="Спортивные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/INTERNET_TV.png",C More Hockey HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/479
+#EXTINF:-1 tvg-id="UFC ТВ" group-title="Спортивные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/UFC.png",UFC ТВ
+http://51.38.134.135:8080/filmax/chatoprovayderah12/354
+#EXTINF:-1 tvg-id="Viasat Sport" group-title="Спортивные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/VIASAT_SPORT.png",Viasat Sport
+http://51.38.134.135:8080/filmax/chatoprovayderah12/355
+#EXTINF:-1 tvg-id="Viasat Sport" group-title="Спортивные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/VIASAT_SPORT_HD.png",Viasat Sport HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/356
+#EXTINF:-1 tvg-id="Мир Баскетбола" group-title="Спортивные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/MIR_BASKETBOLA.png",МИР БАСКЕТБОЛА
+http://51.38.134.135:8080/filmax/chatoprovayderah12/604
+#EXTINF:-1 tvg-id="Eurosport 2 HD Bundesliga" group-title="Спортивные" tvg-logo="http://ru.filmax-tv.ru:4002/icons/EUROSPORT2_BUNDESLIGA.png",Eurosport 2 North-East HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/674
+#EXTINF:-1 tvg-id="DAZN 1 HD" group-title="Спортивные" tvg-logo="http://ru.filmax-tv.ru:4002/icons/DAZN_1.png",DAZN 1 HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/686
+#EXTINF:-1 tvg-id="DAZN 2 HD" group-title="Спортивные" tvg-logo="http://ru.filmax-tv.ru:4002/icons/DAZN_2.png",DAZN 2 HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/687
+#EXTINF:-1 tvg-id="" group-title="Спортивные" tvg-logo="http://ru.filmax-tv.ru:4002/icons/CANAL%2BSPORT_HD.png",Canal+ Sport HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/568
+#EXTINF:-1 tvg-id="Eleven Sports 1 HD" group-title="Спортивные" tvg-logo="http://ru.filmax-tv.ru:4002/icons/ELEVEN_SPORT_1.png",Eleven Sports 1 HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/703
+#EXTINF:-1 tvg-id="Eleven Sports 2 HD" group-title="Спортивные" tvg-logo="http://ru.filmax-tv.ru:4002/icons/ELEVEN_SPORT_2.png",Eleven Sports 2 HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/704
+#EXTINF:-1 tvg-id="Eleven Sports 3 HD" group-title="Спортивные" tvg-logo="http://ru.filmax-tv.ru:4002/icons/ELEVEN_SPORT_3.png",Eleven Sports 3 HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/705
+#EXTINF:-1 tvg-id="Eleven Sports 4 HD" group-title="Спортивные" tvg-logo="http://ru.filmax-tv.ru:4002/icons/ELEVEN_SPORT_4.png",Eleven Sports 4 HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/706
+#EXTINF:-1 tvg-id="ORF Sport+ HD" group-title="Спортивные" tvg-logo="http://ru.filmax-tv.ru:4002/icons/ORF_SPORT%2BHD.png",ORF Sport + HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/707
+#EXTINF:-1 tvg-id="Rai Sport+ HD" group-title="Спортивные" tvg-logo="http://ru.filmax-tv.ru:4002/icons/RAI_SPORT%2BHD.png",Rai Sport+ HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/708
+#EXTINF:-1 tvg-id="SportKlub HD" group-title="Спортивные" tvg-logo="http://ru.filmax-tv.ru:4002/icons/SPORT_KLUB_HD.png",Sport Klub HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/709
+#EXTINF:-1 tvg-id="TVP Sport HD" group-title="Спортивные" tvg-logo="http://ru.filmax-tv.ru:4002/icons/TVP_SPORT.png",TVP Sport HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/710
+#EXTINF:-1 tvg-id="Sky Sport 1 HD" group-title="Спортивные" tvg-logo="http://ru.filmax-tv.ru:4002/icons/SKY_SPORT_1_HD.png",Sky Sport 1 HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/718
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 1 HD" group-title="Спортивные" tvg-logo="http://ru.filmax-tv.ru:4002/icons/SKY_BUNDESLIGA_HD.png",Sky Sport Bundesliga 1 HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/719
+#EXTINF:-1 tvg-id="" group-title="Спортивные" tvg-logo="http://ru.filmax-tv.ru:4002/icons/A21.png",A21
+http://51.38.134.135:8080/filmax/chatoprovayderah12/721
+#EXTINF:-1 tvg-id="Nova Sport 1 HD" group-title="Спортивные" tvg-logo="http://ru.filmax-tv.ru:4002/icons/NOVA_SPORT_1.png",Nova Sport 1 HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/795
+#EXTINF:-1 tvg-id="Nova Sport 2 HD" group-title="Спортивные" tvg-logo="http://ru.filmax-tv.ru:4002/icons/NOVA_SPORT_2.png",Nova Sport 2 HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/796
+#EXTINF:-1 tvg-id="V Sport Hockey HD" group-title="Спортивные" tvg-logo="http://ru.filmax-tv.ru:4002/icons/V_SPORT_HOCKEY.png",V Sport Hockey HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/799
+#EXTINF:-1 tvg-id="Шахтер ТВ" group-title="Спортивные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/INTERNET_TV.png",Шахтер ТВ
+http://51.38.134.135:8080/filmax/chatoprovayderah12/803
+#EXTINF:-1 tvg-id="Sport Digital HD" group-title="Спортивные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/INTERNET_TV.png",Sport digital HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/808
+#EXTINF:-1 tvg-id="nSport+ HD" group-title="Спортивные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/INTERNET_TV.png",nSport+ HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/809
+#EXTINF:-1 tvg-id="FS2 HD" group-title="Спортивные" tvg-logo="http://51.38.134.135:4000/icons/825.png",FS2 HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/825
+#EXTINF:-1 tvg-id="Movistar Formula 1 HD" group-title="Спортивные" tvg-logo="http://51.38.134.135:4000/icons/829.png",Movistar Formula 1 HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/829
+#EXTINF:-1 tvg-id="Setanta Казахстан" group-title="Спортивные" tvg-logo="http://51.38.134.135:4000/icons/830.png",Setanta Qazaqstan HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/830
+#EXTINF:-1 tvg-id="Sky Sports F1 HD" group-title="Спортивные" tvg-logo="http://51.38.134.135:4000/icons/831.png",Sky Sport F1 HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/831
+#EXTINF:-1 tvg-id="1 HD Music Television" group-title="Музыкальные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/1_HD_MUSIC.png",1HD Music Television
+http://51.38.134.135:8080/filmax/chatoprovayderah12/100
+#EXTINF:-1 tvg-id="Жара HD" group-title="Музыкальные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/GARA.png",Жара
+http://51.38.134.135:8080/filmax/chatoprovayderah12/101
+#EXTINF:-1 tvg-id="Жара HD" group-title="Музыкальные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/GARA.png",Жара HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/636
+#EXTINF:-1 tvg-id="M1 HD" group-title="Музыкальные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/M1.png",М1 HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/103
+#EXTINF:-1 tvg-id="M2 HD" group-title="Музыкальные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/M2.png",М2 HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/104
+#EXTINF:-1 tvg-id="МУЗ ТВ" group-title="Музыкальные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/MUZ_TV.png",Муз ТВ
+http://51.38.134.135:8080/filmax/chatoprovayderah12/105
+#EXTINF:-1 tvg-id="Музыка Первого" group-title="Музыкальные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/MUZIKA_PERVOGO.png",Музыка первого
+http://51.38.134.135:8080/filmax/chatoprovayderah12/106
+#EXTINF:-1 tvg-id="O!2 HD" group-title="Музыкальные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/O!2.png",O!2 HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/107
+#EXTINF:-1 tvg-id="Первый музыкальный" group-title="Музыкальные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/PERVIY_MUZIKALNIY.png",Первый Музыкальный RU
+http://51.38.134.135:8080/filmax/chatoprovayderah12/108
+#EXTINF:-1 tvg-id="ТНТ Music HD" group-title="Музыкальные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/TNT_MUSIC.png",ТНТ MUSIC
+http://51.38.134.135:8080/filmax/chatoprovayderah12/109
+#EXTINF:-1 tvg-id="ТНТ Music HD" group-title="Музыкальные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/TNT_MUSIC.png",ТНТ MUSIC HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/110
+#EXTINF:-1 tvg-id="Шансон-TB" group-title="Музыкальные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/TV_SHANSON.png",Шансон ТВ
+http://51.38.134.135:8080/filmax/chatoprovayderah12/112
+#EXTINF:-1 tvg-id="Bridge TV Deluxe" group-title="Музыкальные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/BRDGE_HD_DELUXE.png",BRIDGE TV DELUXE
+http://51.38.134.135:8080/filmax/chatoprovayderah12/113
+#EXTINF:-1 tvg-id="Bridge TV" group-title="Музыкальные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/BRIDGE_TV.png",Bridge TV
+http://51.38.134.135:8080/filmax/chatoprovayderah12/114
+#EXTINF:-1 tvg-id="Europa Plus TV" group-title="Музыкальные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/EUROPA_PLUS_TV.png",Europa plus TV HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/116
+#EXTINF:-1 tvg-id="Stingray CMusic" group-title="Музыкальные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/ICONCERTS.png",iConcerts HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/118
+#EXTINF:-1 tvg-id="MTV Hits International" group-title="Музыкальные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/MTV_DANCE.png",MTV Club
+http://51.38.134.135:8080/filmax/chatoprovayderah12/119
+#EXTINF:-1 tvg-id="MTV Russia" group-title="Музыкальные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/MTV_HD.png",MTV HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/120
+#EXTINF:-1 tvg-id="MTV Hits International" group-title="Музыкальные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/MTV_HITS.png",MTV Hits
+http://51.38.134.135:8080/filmax/chatoprovayderah12/121
+#EXTINF:-1 tvg-id="MTV Live International HD" group-title="Музыкальные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/MTV_LVE_HD.png",MTV Live HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/122
+#EXTINF:-1 tvg-id="Music Box Gold" group-title="Музыкальные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/MUSIC_BOX_GOLD.png",MusicBox GOLD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/124
+#EXTINF:-1 tvg-id="RU TV" group-title="Музыкальные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/RU_TV.png",RU.TV
+http://51.38.134.135:8080/filmax/chatoprovayderah12/127
+#EXTINF:-1 tvg-id="RU TV" group-title="Музыкальные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/RU_TV.png",RU.TV HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/128
+#EXTINF:-1 tvg-id="Music Box Russia" group-title="Музыкальные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/RUSSIAN_MUSICBOX.png",MusicBox RU HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/129
+#EXTINF:-1 tvg-id="SONG TV Russia HD" group-title="Музыкальные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/SONG_TV.png",SONG TV Russia HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/130
+#EXTINF:-1 tvg-id="Stingray CMusic" group-title="Музыкальные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/CMUSIC_TV.png",Stingray CMusic
+http://51.38.134.135:8080/filmax/chatoprovayderah12/131
+#EXTINF:-1 tvg-id="VH1 European" group-title="Музыкальные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/VH1.png",VH1 European
+http://51.38.134.135:8080/filmax/chatoprovayderah12/133
+#EXTINF:-1 tvg-id="Mezzo" group-title="Музыкальные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/MEZZO.png",Mezzo
+http://51.38.134.135:8080/filmax/chatoprovayderah12/185
+#EXTINF:-1 tvg-id="" group-title="Музыкальные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/LANDSCAPE_HD.png",Landscape HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/520
+#EXTINF:-1 tvg-id="Mezzo Live HD" group-title="Музыкальные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/MEZO_LIVE_HD.png",Mezzo Live HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/528
+#EXTINF:-1 tvg-id="EU Music HD" group-title="Музыкальные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/EU_MUSIC_HD.png",EU Music HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/665
+#EXTINF:-1 tvg-id="Deluxe Music HD" group-title="Музыкальные" tvg-logo="http://ru.filmax-tv.ru:4002/icons/DELUX_MUSIC_HD.png",Deluxe music HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/673
+#EXTINF:-1 tvg-id="Радио Страна ФМ" group-title="Музыкальные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/STRANA_FM.png",Страна FM
+http://51.38.134.135:8080/filmax/chatoprovayderah12/571
+#EXTINF:-1 tvg-id="Bridge TV Classic" group-title="Музыкальные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/BRIDGE_CLASSIC.png",Bridge TV Classic
+http://51.38.134.135:8080/filmax/chatoprovayderah12/627
+#EXTINF:-1 tvg-id="Bridge TV Hits" group-title="Музыкальные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/BRIDGE_HITS.png",Bridge TV Hits
+http://51.38.134.135:8080/filmax/chatoprovayderah12/628
+#EXTINF:-1 tvg-id="Bridge TV Русский хит" group-title="Музыкальные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/BRIDGE_RUSSKIY_HIT.png",Bridge TV Русский Хит
+http://51.38.134.135:8080/filmax/chatoprovayderah12/629
+#EXTINF:-1 tvg-id="4ever music" group-title="Музыкальные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/4EVER_MUSIC_HD.png",4Ever Music HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/639
+#EXTINF:-1 tvg-id="MCM Top" group-title="Музыкальные" tvg-logo="http://ru.filmax-tv.ru:4002/icons/MCM_TOP.png",MCM Top HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/680
+#EXTINF:-1 tvg-id="AIVA HD" group-title="Музыкальные" tvg-logo="http://ru.filmax-tv.ru:4002/icons/AIVA_HD.png",AIVA HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/766
+#EXTINF:-1 tvg-id="Первый музыкальный" group-title="Музыкальные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/PERVIY_MUZIKALNIY.png",Первый музыкальный UHD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/786
+#EXTINF:-1 tvg-id="MTV 90s" group-title="Музыкальные" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/MTV_ROCKS.png",MTV 90's
+http://51.38.134.135:8080/filmax/chatoprovayderah12/519
+#EXTINF:-1 tvg-id="MusicBox UA HD" group-title="Музыкальные" tvg-logo="http://ru.filmax-tv.ru:4002/icons/MUSIC_BOX_UA.png",MusicBox UA HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/794
+#EXTINF:-1 tvg-id="" group-title="Музыкальные" tvg-logo="http://51.38.134.135:4000/icons/823.png",Eurodance 90
+http://51.38.134.135:8080/filmax/chatoprovayderah12/823
+#EXTINF:-1 tvg-id="Москва. Доверие" group-title="Остальное" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/DOVERIE.png",Москва Доверие
+http://51.38.134.135:8080/filmax/chatoprovayderah12/159
+#EXTINF:-1 tvg-id="Дождь" group-title="Остальное" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/DOGD.png",Дождь HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/160
+#EXTINF:-1 tvg-id="Мир 24" group-title="Остальное" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/MIR_24.png",Мир 24 HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/164
+#EXTINF:-1 tvg-id="" group-title="Остальное" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/NOVOROSSIA_TV.png",Новороссия ТВ
+http://51.38.134.135:8080/filmax/chatoprovayderah12/165
+#EXTINF:-1 tvg-id="" group-title="Остальное" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/OPLOT_TV.png",Оплот
+http://51.38.134.135:8080/filmax/chatoprovayderah12/166
+#EXTINF:-1 tvg-id="" group-title="Остальное" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/OPLOT_TV.png",Оплот HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/167
+#EXTINF:-1 tvg-id="" group-title="Остальное" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/1_RESPUBLIKANSKIY.png",Первый Республиканский
+http://51.38.134.135:8080/filmax/chatoprovayderah12/168
+#EXTINF:-1 tvg-id="Deutche Welle" group-title="Остальное" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/D_W.png",Deutsche Welle
+http://51.38.134.135:8080/filmax/chatoprovayderah12/654
+#EXTINF:-1 tvg-id="Ретро ТВ" group-title="Остальное" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/RETRO.png",РЕТРО
+http://51.38.134.135:8080/filmax/chatoprovayderah12/171
+#EXTINF:-1 tvg-id="Известия HD" group-title="Остальное" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/IZVESTIA.png",Известия
+http://51.38.134.135:8080/filmax/chatoprovayderah12/172
+#EXTINF:-1 tvg-id="" group-title="Остальное" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/union.png",Юнион
+http://51.38.134.135:8080/filmax/chatoprovayderah12/174
+#EXTINF:-1 tvg-id="Bloomberg" group-title="Остальное" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/bloomberg.png",Bloomberg
+http://51.38.134.135:8080/filmax/chatoprovayderah12/175
+#EXTINF:-1 tvg-id="CBS Reality" group-title="Остальное" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/CBS_REALITI.png",CBS Reality
+http://51.38.134.135:8080/filmax/chatoprovayderah12/176
+#EXTINF:-1 tvg-id="CGTN" group-title="Остальное" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/CGTN.png",CGTN
+http://51.38.134.135:8080/filmax/chatoprovayderah12/177
+#EXTINF:-1 tvg-id="CNL Америка" group-title="Остальное" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/CNL_TV.png",CNL TV
+http://51.38.134.135:8080/filmax/chatoprovayderah12/178
+#EXTINF:-1 tvg-id="English Club TV" group-title="Остальное" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/ENGLISH_CLUB.png",English Club TV HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/179
+#EXTINF:-1 tvg-id="Евроновости" group-title="Остальное" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/EURO_NEWS.png",Евроновости
+http://51.38.134.135:8080/filmax/chatoprovayderah12/180
+#EXTINF:-1 tvg-id="Fashion Box HD" group-title="Остальное" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/FASHION_BOX.png",Fashion Box
+http://51.38.134.135:8080/filmax/chatoprovayderah12/181
+#EXTINF:-1 tvg-id="" group-title="Остальное" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/FASHION_ONE.png",Fashion One
+http://51.38.134.135:8080/filmax/chatoprovayderah12/182
+#EXTINF:-1 tvg-id="Fashion TV HD" group-title="Остальное" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/FASHION_TV_HD.png",Fashion TV HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/183
+#EXTINF:-1 tvg-id="SHANT Premium" group-title="Остальное" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/SHANT.png",SHANT News
+http://51.38.134.135:8080/filmax/chatoprovayderah12/187
+#EXTINF:-1 tvg-id="8 Канал" group-title="Остальное" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/8_KANAL.png",8 Канал
+http://51.38.134.135:8080/filmax/chatoprovayderah12/653
+#EXTINF:-1 tvg-id="Canal 2 HD" group-title="Остальное" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/INTERNET_TV.png",Canal 2 HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/491
+#EXTINF:-1 tvg-id="Canal 3 HD" group-title="Остальное" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/INTERNET_TV.png",Canal 3 HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/466
+#EXTINF:-1 tvg-id="" group-title="Остальное" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/RAI_1.png",RAI 1 (Italiano)
+http://51.38.134.135:8080/filmax/chatoprovayderah12/660
+#EXTINF:-1 tvg-id="Известия HD" group-title="Остальное" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/IZVESTIA.png",Известия HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/640
+#EXTINF:-1 tvg-id="" group-title="Остальное" tvg-logo="http://51.38.134.135:4000/icons/702.png",Сарафан
+http://51.38.134.135:8080/filmax/chatoprovayderah12/702
+#EXTINF:-1 tvg-id="78 канал" group-title="Остальное" tvg-logo="http://ru.filmax-tv.ru:4002/icons/78_KANAL.png",78 канал HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/778
+#EXTINF:-1 tvg-id="RTVi" group-title="Остальное" tvg-logo="http://ru.filmax-tv.ru:4002/icons/RTVI.png",RTVI
+http://51.38.134.135:8080/filmax/chatoprovayderah12/782
+#EXTINF:-1 tvg-id="" group-title="Остальное" tvg-logo="http://51.38.134.135:4000/icons/826.png",Gagsnetwork
+http://51.38.134.135:8080/filmax/chatoprovayderah12/826
+#EXTINF:-1 tvg-id="O-la-la" group-title="Взрослые 18+" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/O_LA_LA.png",О-ля-ля
+http://51.38.134.135:8080/filmax/chatoprovayderah12/17
+#EXTINF:-1 tvg-id="Babes TV" group-title="Взрослые 18+" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/BABES_TV.png",Babes TV HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/18
+#EXTINF:-1 tvg-id="Jasmin TV HD (18+)" group-title="Взрослые 18+" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/JASMIN_TV.png",Jasmin TV HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/19
+#EXTINF:-1 tvg-id="" group-title="Взрослые 18+" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/REDLIGHT_HD.png",Redlight HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/23
+#EXTINF:-1 tvg-id="Private TV" group-title="Взрослые 18+" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/PRIVATE_HD.png",Private TV HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/24
+#EXTINF:-1 tvg-id="" group-title="Взрослые 18+" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/PENTHAUS_HD.png",Penthouse Quickies HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/25
+#EXTINF:-1 tvg-id="Vivid Red" group-title="Взрослые 18+" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/VIVID_RED.png",Vivid Red TV HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/596
+#EXTINF:-1 tvg-id="" group-title="Взрослые 18+" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/DROCEL_TV.png",Dorcel HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/593
+#EXTINF:-1 tvg-id="" group-title="Взрослые 18+" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/EXXOTICA_HD.png",Exxxotica HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/648
+#EXTINF:-1 tvg-id="" group-title="Взрослые 18+" tvg-logo="http://ru.filmax-tv.ru:4002/icons/EXTASY_4K.png",EXTASY 4K
+http://51.38.134.135:8080/filmax/chatoprovayderah12/712
+#EXTINF:-1 tvg-id="" group-title="Взрослые 18+" tvg-logo="http://ru.filmax-tv.ru:4002/icons/VIVID_TV.png",VIVID TV
+http://51.38.134.135:8080/filmax/chatoprovayderah12/713
+#EXTINF:-1 tvg-id="" group-title="Взрослые 18+" tvg-logo="http://ru.filmax-tv.ru:4002/icons/XXL.png",XXL
+http://51.38.134.135:8080/filmax/chatoprovayderah12/714
+#EXTINF:-1 tvg-id="Hustler HD" group-title="Взрослые 18+" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/BLU_HUSTLER.png",Blue Hustler HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/723
+#EXTINF:-1 tvg-id="" group-title="Взрослые 18+" tvg-logo="http://51.38.134.135:4000/icons/822.png",Eromania 4K
+http://51.38.134.135:8080/filmax/chatoprovayderah12/822
+#EXTINF:-1 tvg-id="СТС +4" group-title="Каналы (+)" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/STS.png",СТС (+4)
+http://51.38.134.135:8080/filmax/chatoprovayderah12/57
+#EXTINF:-1 tvg-id="Че +2" group-title="Каналы (+)" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/CHE.png",Че (+2)
+http://51.38.134.135:8080/filmax/chatoprovayderah12/58
+#EXTINF:-1 tvg-id="НТВ (+2)" group-title="Каналы (+)" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/NTV.png",НТВ (+2)
+http://51.38.134.135:8080/filmax/chatoprovayderah12/60
+#EXTINF:-1 tvg-id="" group-title="Каналы (+)" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/NTV.png",НТВ (+4)
+http://51.38.134.135:8080/filmax/chatoprovayderah12/61
+#EXTINF:-1 tvg-id="Первый канал (+2)" group-title="Каналы (+)" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/PERVIY_KANAL.png",Первый канал (+2)
+http://51.38.134.135:8080/filmax/chatoprovayderah12/64
+#EXTINF:-1 tvg-id="" group-title="Каналы (+)" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/RUSSIA_1.png",Россия 1 (+8)
+http://51.38.134.135:8080/filmax/chatoprovayderah12/76
+#EXTINF:-1 tvg-id="" group-title="Каналы (+)" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/RUSSIA_1.png",Россия 1 (+4)
+http://51.38.134.135:8080/filmax/chatoprovayderah12/75
+#EXTINF:-1 tvg-id="" group-title="Каналы (+)" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/RUSSIA_1.png",Россия 1 (+2)
+http://51.38.134.135:8080/filmax/chatoprovayderah12/74
+#EXTINF:-1 tvg-id="Пятый канал +4" group-title="Каналы (+)" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/PYATIY_KANAL.png",Пятый канал (+4)
+http://51.38.134.135:8080/filmax/chatoprovayderah12/72
+#EXTINF:-1 tvg-id="Первый канал +8" group-title="Каналы (+)" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/PERVIY_KANAL.png",Первый канал (+8)
+http://51.38.134.135:8080/filmax/chatoprovayderah12/70
+#EXTINF:-1 tvg-id="Первый канал +6" group-title="Каналы (+)" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/PERVIY_KANAL.png",Первый канал (+6)
+http://51.38.134.135:8080/filmax/chatoprovayderah12/69
+#EXTINF:-1 tvg-id="Первый канал +4" group-title="Каналы (+)" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/PERVIY_KANAL.png",Первый канал (+4)
+http://51.38.134.135:8080/filmax/chatoprovayderah12/67
+#EXTINF:-1 tvg-id="Первый канал +4" group-title="Каналы (+)" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/PERVIY_KANAL_HD.png",Первый канал HD (+4)
+http://51.38.134.135:8080/filmax/chatoprovayderah12/456
+#EXTINF:-1 tvg-id="НТВ +7" group-title="Каналы (+)" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/NTV.png",НТВ (+7)
+http://51.38.134.135:8080/filmax/chatoprovayderah12/616
+#EXTINF:-1 tvg-id="Пятница +7" group-title="Каналы (+)" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/PYATNICA.png",Пятница! (+7)
+http://51.38.134.135:8080/filmax/chatoprovayderah12/618
+#EXTINF:-1 tvg-id="Рен ТВ +7" group-title="Каналы (+)" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/REN_TV.png",РЕН ТВ (+7)
+http://51.38.134.135:8080/filmax/chatoprovayderah12/619
+#EXTINF:-1 tvg-id="СТС +7" group-title="Каналы (+)" tvg-logo="http://51.38.134.135:4000/icons/620.png",СТС (+7)
+http://51.38.134.135:8080/filmax/chatoprovayderah12/620
+#EXTINF:-1 tvg-id="ТВ3 +4" group-title="Каналы (+)" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/TV3.png",ТВ3 (+4)
+http://51.38.134.135:8080/filmax/chatoprovayderah12/621
+#EXTINF:-1 tvg-id="ТВ3 +7" group-title="Каналы (+)" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/TV3.png",ТВ3 (+7)
+http://51.38.134.135:8080/filmax/chatoprovayderah12/622
+#EXTINF:-1 tvg-id="" group-title="Каналы (+)" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/TNT.png",ТНТ (+6)
+http://51.38.134.135:8080/filmax/chatoprovayderah12/623
+#EXTINF:-1 tvg-id="ТНТ4 +4" group-title="Каналы (+)" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/TNT4.png",ТНТ4 (+4)
+http://51.38.134.135:8080/filmax/chatoprovayderah12/624
+#EXTINF:-1 tvg-id="ТНТ4 +7" group-title="Каналы (+)" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/TNT4.png",ТНТ4 (+7)
+http://51.38.134.135:8080/filmax/chatoprovayderah12/625
+#EXTINF:-1 tvg-id="Пятница +2" group-title="Каналы (+)" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/PYATNICA.png",Пятница! (+2)
+http://51.38.134.135:8080/filmax/chatoprovayderah12/641
+#EXTINF:-1 tvg-id="РЕН ТВ (+2)" group-title="Каналы (+)" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/REN_TV.png",РЕН ТВ (+2)
+http://51.38.134.135:8080/filmax/chatoprovayderah12/642
+#EXTINF:-1 tvg-id="СТС +2" group-title="Каналы (+)" tvg-logo="СТС (+4)",СТС (+2)
+http://51.38.134.135:8080/filmax/chatoprovayderah12/643
+#EXTINF:-1 tvg-id="ТВ3 +2" group-title="Каналы (+)" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/TV3.png",ТВ3 (+2)
+http://51.38.134.135:8080/filmax/chatoprovayderah12/644
+#EXTINF:-1 tvg-id="ТНТ (+2)" group-title="Каналы (+)" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/TNT.png",ТНТ (+2)
+http://51.38.134.135:8080/filmax/chatoprovayderah12/645
+#EXTINF:-1 tvg-id="ТНТ4 +2" group-title="Каналы (+)" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/TNT4.png",ТНТ4 (+2)
+http://51.38.134.135:8080/filmax/chatoprovayderah12/646
+#EXTINF:-1 tvg-id="1+1" group-title="Украина" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/1+1.png",1+1 HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/357
+#EXTINF:-1 tvg-id="ICTV" group-title="Украина" tvg-logo="http://ru.filmax-tv.ru:4002/icons/ICTV.png",ICTV HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/770
+#EXTINF:-1 tvg-id="Новый канал HD" group-title="Украина" tvg-logo="http://ru.filmax-tv.ru:4002/icons/NOVIY_KANAL.png",Новый канал HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/769
+#EXTINF:-1 tvg-id="24 канал" group-title="Украина" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/24_KANAL.png",24 канал
+http://51.38.134.135:8080/filmax/chatoprovayderah12/361
+#EXTINF:-1 tvg-id="34 канал (Днепропетровск)" group-title="Украина" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/34_KANAL.png",34 канал
+http://51.38.134.135:8080/filmax/chatoprovayderah12/362
+#EXTINF:-1 tvg-id="4канал" group-title="Украина" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/4_KANAL.png",4канал
+http://51.38.134.135:8080/filmax/chatoprovayderah12/363
+#EXTINF:-1 tvg-id="" group-title="Украина" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/BAMBARIA.png",БАМБАРБИЯ
+http://51.38.134.135:8080/filmax/chatoprovayderah12/365
+#EXTINF:-1 tvg-id="7 канал (Одесса)" group-title="Украина" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/7_KANAL.png",7 канал (Одесса)
+http://51.38.134.135:8080/filmax/chatoprovayderah12/367
+#EXTINF:-1 tvg-id="" group-title="Украина" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/LUX_FM.png",Люкс FM UA
+http://51.38.134.135:8080/filmax/chatoprovayderah12/371
+#EXTINF:-1 tvg-id="" group-title="Украина" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/MANGOLIA_TV.png",Магнолія-ТВ
+http://51.38.134.135:8080/filmax/chatoprovayderah12/372
+#EXTINF:-1 tvg-id="НТН" group-title="Украина" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/NTN.png",НТН
+http://51.38.134.135:8080/filmax/chatoprovayderah12/375
+#EXTINF:-1 tvg-id="" group-title="Украина" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/GTV.png",G-TV
+http://51.38.134.135:8080/filmax/chatoprovayderah12/385
+#EXTINF:-1 tvg-id="UA:Крим" group-title="Украина" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/UA_KRIM.png",UAКрим
+http://51.38.134.135:8080/filmax/chatoprovayderah12/386
+#EXTINF:-1 tvg-id="2+2" group-title="Украина" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/2+2.png",2+2 HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/537
+#EXTINF:-1 tvg-id="FilmUa Drama HD" group-title="Украина" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/INTERNET_TV.png",FilmUA Drama HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/691
+#EXTINF:-1 tvg-id="Южная волна" group-title="Украина" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/UGNAYA_VOLNA.png",Южная Волна ТВ HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/583
+#EXTINF:-1 tvg-id="Третий Цифровой" group-title="Украина" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/TRETIY_CIFROVOY.png",Третий цифровой
+http://51.38.134.135:8080/filmax/chatoprovayderah12/584
+#EXTINF:-1 tvg-id="" group-title="Украина" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/A_1_HD.png",A1 HD (Одесса)
+http://51.38.134.135:8080/filmax/chatoprovayderah12/585
+#EXTINF:-1 tvg-id="" group-title="Украина" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/TIC_TV.png",ТИС ТВ
+http://51.38.134.135:8080/filmax/chatoprovayderah12/586
+#EXTINF:-1 tvg-id="СТБ HD" group-title="Украина" tvg-logo="http://ru.filmax-tv.ru:4002/icons/STB_HD.png",СТБ HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/774
+#EXTINF:-1 tvg-id="Iнтер" group-title="Украина" tvg-logo="http://ru.filmax-tv.ru:4002/icons/INTER.png",Iнтер
+http://51.38.134.135:8080/filmax/chatoprovayderah12/359
+#EXTINF:-1 tvg-id="ТеТ HD" group-title="Украина" tvg-logo="http://ru.filmax-tv.ru:4002/icons/TET.png",ТeТ HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/771
+#EXTINF:-1 tvg-id="" group-title="Украина" tvg-logo="http://ru.filmax-tv.ru:4002/icons/X_SPORT.png",X-Sport HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/773
+#EXTINF:-1 tvg-id="" group-title="Украина" tvg-logo="http://ru.filmax-tv.ru:4002/icons/KVARTAL_TV.png",KVARTAL TV
+http://51.38.134.135:8080/filmax/chatoprovayderah12/785
+#EXTINF:-1 tvg-id="Оце HD" group-title="Украина" tvg-logo="http://ru.filmax-tv.ru:4002/icons/OCE_HD.png",ОЦЕ HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/800
+#EXTINF:-1 tvg-id="Беларусь 1" group-title="Беларусь" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/BELARUS_1.png",Беларусь 1 HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/539
+#EXTINF:-1 tvg-id="Беларусь 3" group-title="Беларусь" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/BELARUS_3.png",Беларусь 3 HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/540
+#EXTINF:-1 tvg-id="ОНТ (Беларусь)" group-title="Беларусь" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/ONT_UA.png",ОНТ HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/543
+#EXTINF:-1 tvg-id="СТВ" group-title="Беларусь" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/STV.png",CTB HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/544
+#EXTINF:-1 tvg-id="СТВ" group-title="Беларусь" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/STV.png",СТВ
+http://51.38.134.135:8080/filmax/chatoprovayderah12/545
+#EXTINF:-1 tvg-id="РТР Беларусь" group-title="Беларусь" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/RTR-BELARUS.png",РТР-Беларусь HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/546
+#EXTINF:-1 tvg-id="НТВ Беларусь" group-title="Беларусь" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/NTV_BELARUS.png",НТВ-Беларусь HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/547
+#EXTINF:-1 tvg-id="Беларусь-24" group-title="Беларусь" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/BELARUS_24.png",Беларусь 24 HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/548
+#EXTINF:-1 tvg-id="ВТВ (Первый музыкальный)" group-title="Беларусь" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/VTV_BELARUS.png",ВТВ HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/552
+#EXTINF:-1 tvg-id="" group-title="Беларусь" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/NASHE_TV_BELARUS.png",Наше ТВ
+http://51.38.134.135:8080/filmax/chatoprovayderah12/554
+#EXTINF:-1 tvg-id="" group-title="Беларусь" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/BBK_BELARUS.png",ББК
+http://51.38.134.135:8080/filmax/chatoprovayderah12/556
+#EXTINF:-1 tvg-id="Беларусь 2 HD" group-title="Беларусь" tvg-logo="http://f1-mania.ru/janitor/filmax/LOGO/BELARUS_2.png",Беларусь 2 HD
+http://51.38.134.135:8080/filmax/chatoprovayderah12/590

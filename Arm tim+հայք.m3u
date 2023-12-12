@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1,ArmTim
+https://autopilot.catcast.tv/content/40653/index.m3u8
+#EXTINF:-1,Fresh tv
+https://freshtv.catcast.tv/content/33718/index.m3u8
+#EXTINF:-1,HAYQ TV
+http://shingaliptv1.online:80/1212hayq_tv1412/index.m3u8
+#EXTINF:-1,HAYQ EZIDI TV
+http://shingaliptv1.online:80/1212CANALEHAYQEZIDI_TV1425/index.m3u8
+#EXTINF:-1,HAYQ MIX TV
+http://shingaliptv1.online:80/1212hayqmix_tv1452/index.m3u8
+#EXTINF:-1,HAYQ RUS TV
+http://185.230.140.203:80/1212HAYQRUSTV1413/index.m3u8
+#EXTINF:-1,ARMENIUS TV
+http://shingaliptv1.online:80/armenius_tv/index.m3u8
+#EXTINF:-1,LAYM_GOLD_TV
+http://shingaliptv1.online:80/LAYM_GOLD_TV/index.m3u8
+#EXTINF:-1,Դավ ջան
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=40546&token=c9e216a6a1bfd50bc8b6eefff280e192&server=v2.catcast.tv
