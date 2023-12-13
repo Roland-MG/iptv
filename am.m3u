@@ -1,4 +1,13 @@
 #EXTM3U [Not 24/7].am
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s3/index.m3u8
+#EXTINF:-1 tvg-id="Armenia1.am" tvg-logo="https://i.imgur.com/HIwJ4lc.png" group-title="Undefined",Առաջին ալիք
+https://amtv1.livestreamingcdn.com/am2abr/index.m3u8
+#EXTINF:-1 tvg-id="1tv.am" tvg-logo="https://i.imgur.com/HIwJ4lc.png" group-title="Undefined",Առաջին ալիք (Մետրային)
+https://amtv1.livestreamingcdn.com/am1abr/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="1tv.am" tvg-logo="https://i.imgur.com/HIwJ4lc.png" group-title="Undefined",Առաջին ալիք (Արբանյակային)
+https://amtv1.livestreamingcdn.com/am2abr/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",ԱՐՄԵՆԻԱ 1 ՊՐԵՄԻՈՒՄ
 #EXTINF:-1 tvg-id="5TV.am" tvg-logo="https://i.imgur.com/jOGZZDo.png" group-title="Undefined" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",5 ԹԻՎԻ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s6/index.m3u8
@@ -69,15 +78,6 @@ http://moobl.ru/hls/RTR_Planeta_Eu.m3u8
 #EXTINF:-1 tvg-id="HuzurTV.ru" tvg-logo="https://i.imgur.com/Abg1fct.png" group-title="Religious",Хузур ТВ
 https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",ԱԶԱՏՈՒԹՅՈՒՆ ԹԻՎԻ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s3/index.m3u8
-#EXTINF:-1 tvg-id="Armenia1.am" tvg-logo="https://i.imgur.com/HIwJ4lc.png" group-title="Undefined",Առաջին ալիք
-https://amtv1.livestreamingcdn.com/am2abr/index.m3u8
-#EXTINF:-1 tvg-id="1tv.am" tvg-logo="https://i.imgur.com/HIwJ4lc.png" group-title="Undefined",Առաջին ալիք (Մետրային)
-https://amtv1.livestreamingcdn.com/am1abr/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-id="1tv.am" tvg-logo="https://i.imgur.com/HIwJ4lc.png" group-title="Undefined",Առաջին ալիք (Արբանյակային)
-https://amtv1.livestreamingcdn.com/am2abr/tracks-v3a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",ԱՐՄԵՆԻԱ 1 ՊՐԵՄԻՈՒՄ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s83/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",ԱՐՄԵՆԻԱ
