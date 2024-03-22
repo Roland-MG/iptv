@@ -1,1 +1,1 @@
-# ipTV chanales playlists
+# ipTV channels playlists
