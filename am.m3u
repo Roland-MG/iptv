@@ -4,7 +4,7 @@
 
 
 #EXTINF:1 tvg-id="Armenia1.am" tvg-logo="https://i.imgur.com/HIwJ4lc.png" group-title="Undefined" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",Առաջին ալիք
-https://amtv1.livestreamingcdn.com/am2abr/index.m3u8
+https://amtv.tulixcdn.com/amtv1/am1abr/tracks-v2a1/mono.m3u8
 
 
 #EXTINF:2 tvg-id="1tv.am" tvg-logo="https://i.imgur.com/HIwJ4lc.png" group-title="Undefined" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",Առաջին ալիք (Մետրային)
